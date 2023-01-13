@@ -1,6 +1,9 @@
-import streamlit as st 
+import streamlit as st
 
-st.header('Hello World! UwU!!')
+st.header('st.selectbox')
 
-if st.button("OwO!! What's this?", type='primary'): st.write("This is a message UwU!!")
-else: st.write("What does that button do? UwU!!")
+option = st.selectbox(
+     'What is your favorite color?',
+     ('Blue', 'Red', 'Green'))
+
+st.write('Your favorite color is ', option)
