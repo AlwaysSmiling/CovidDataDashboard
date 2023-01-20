@@ -4,6 +4,17 @@ import altair as alt
 from millify import millify
 
 @st.cache
+def transformdf(df: pd.DataFrame):
+    df = df.pivot(index="Date", columns="IncomeCategory", values="HighestInfected")
+    df["Low income"] = df["Low income"].fillna(0)
+    df["Low Class Income"] = df["Low income"] + df["Lower middle income"]
+    df.drop(['Low income','Lower middle income'], axis=1, inplace=True)
+    df.rename(columns={'High income': "High Class Income"}, inplace=True)
+    df['Date'] = df.index
+    df = df.melt(id_vars='Date', value_vars=['High Class Income', 'Middle Class Income', 'Low Class Income'])
+    return df
+
+@st.cache
 def importdata():
     df1 = pd.read_excel(
     '/home/pranjalsmiling/Projects/CovidDataDashboard/SQLServerExport.xlsx', 0)
@@ -49,12 +60,12 @@ with tab1:
     c = c.configure_legend(disable=True)
     st.altair_chart(c, use_container_width=True)
 
-with tab2:      #TODO: combine lower middle & low income.
+with tab2:    
     st.subheader("Infected by Income")
     #fourth chart
-    a = alt.Chart(df4).mark_area(opacity=0.4).encode(
+    a = alt.Chart(transformdf(df4)).mark_area(opacity=0.3).encode(
         x=alt.X('Date:T', title="Month/Year"),
-        y=alt.Y('HighestInfected:Q', stack=None, title="Infected Count"),
+        y=alt.Y('value:Q', stack=None, title="Infected Count"),
         color='IncomeCategory:N'
     ).properties(
         width=alt.Step(50)
