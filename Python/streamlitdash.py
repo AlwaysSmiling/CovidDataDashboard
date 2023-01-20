@@ -2,7 +2,13 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 from millify import millify
+import geopandas as gpd
+import gpdvega
 
+alt.data_transformers.enable(consolidate_datasets=False)
+
+earthdf = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
+earthdf.drop(['iso_a3', 'gdp_md_est', 'continent'], axis=1, inplace=True)
 
 @st.cache
 def transformdf(df: pd.DataFrame):
@@ -46,11 +52,15 @@ col2.metric(label=":red[**Total Covid Deaths**]",
             value=millify(df1.iloc[0, 1], precision=3))
 
 st.header("Global Situation")
-# TODO: Complete the map part.
 # second map
-map = alt.Chart().mark_geoshape().encode(
+df3 = pd.merge(left=earthdf, right=df3, how='inner', left_on='name', right_on='Location')
+data = gpdvega.geojson_feature(df3,"features")
+map = alt.Chart(data).mark_geoshape(stroke='black', strokeWidth=0.2).project().encode(
+        tooltip=['properties.name:O']
+    ).properties(width=1300, height=600)
 
-)
+st.altair_chart(map, use_container_width=True)
+
 
 tab1, tab2 = st.tabs(["Deaths by Continent", "Infected by Income"])
 with tab1:
@@ -68,7 +78,7 @@ with tab1:
     )
     c = c.configure_legend(disable=True)
     c = c.configure_axis(labelFontSize=15, titleFontSize=17)
-    
+
     st.altair_chart(c, use_container_width=True)
 
 with tab2:
