@@ -9,14 +9,10 @@ st. set_page_config(layout="wide")      #set to wide mode
 def importdata():
     # import spreadsheets from excel
 
-    df1 = pd.read_excel(
-        'SQLServerExport.xlsx', 0)
-    df2 = pd.read_excel(
-        'SQLServerExport.xlsx', 1)
-    df3 = pd.read_excel(
-        'SQLServerExport.xlsx', 2)
-    df4 = pd.read_excel(
-        'SQLServerExport.xlsx', 3)
+    df1 = pd.read_csv('df1.csv')
+    df2 = pd.read_csv('df2.csv')
+    df3 = pd.read_csv('df3.csv')
+    df4 = pd.read_csv('df4.csv')
 
     # preprocess some df3
 
