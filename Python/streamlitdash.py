@@ -1,7 +1,9 @@
+import os
 import streamlit as st
 import pandas as pd
 import altair as alt
 from millify import millify
+from pathlib import Path
 
 st. set_page_config(layout="wide")      #set to wide mode
 
@@ -9,10 +11,10 @@ st. set_page_config(layout="wide")      #set to wide mode
 def importdata():
     # import spreadsheets from excel
 
-    df1 = pd.read_csv('df1.csv')
-    df2 = pd.read_csv('df2.csv')
-    df3 = pd.read_csv('df3.csv')
-    df4 = pd.read_csv('df4.csv')
+    df1 = pd.read_csv(open(Path(__file__).parents[0]/'df1.csv', 'r'))
+    df2 = pd.read_csv(open(Path(__file__).parents[0]/'df2.csv', 'r'))
+    df3 = pd.read_csv(open(Path(__file__).parents[0]/'df3.csv', 'r'))
+    df4 = pd.read_csv(open(Path(__file__).parents[0]/'df4.csv', 'r'))
 
     # preprocess some df3
 
