@@ -10,13 +10,13 @@ def importdata():
     # import spreadsheets from excel
 
     df1 = pd.read_excel(
-        '/home/pranjalsmiling/Projects/CovidDataDashboard/SQLServerExport.xlsx', 0)
+        'https://github.com/AlwaysSmiling/CovidDataDashboard/blob/9083b04ba6f32de98f3b9a34d646f0a9ff9ab404/SQLServerExport.xlsx', 0)
     df2 = pd.read_excel(
-        '/home/pranjalsmiling/Projects/CovidDataDashboard/SQLServerExport.xlsx', 1)
+        'https://github.com/AlwaysSmiling/CovidDataDashboard/blob/9083b04ba6f32de98f3b9a34d646f0a9ff9ab404/SQLServerExport.xlsx', 1)
     df3 = pd.read_excel(
-        '/home/pranjalsmiling/Projects/CovidDataDashboard/SQLServerExport.xlsx', 2)
+        'https://github.com/AlwaysSmiling/CovidDataDashboard/blob/9083b04ba6f32de98f3b9a34d646f0a9ff9ab404/SQLServerExport.xlsx', 2)
     df4 = pd.read_excel(
-        '/home/pranjalsmiling/Projects/CovidDataDashboard/SQLServerExport.xlsx', 3)
+        'https://github.com/AlwaysSmiling/CovidDataDashboard/blob/9083b04ba6f32de98f3b9a34d646f0a9ff9ab404/SQLServerExport.xlsx', 3)
 
     # preprocess some df3
 
