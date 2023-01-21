@@ -1,0 +1,4273 @@
+﻿IncomeCategory,Date,HighestInfected
+High income,01-01-2023,418442940
+Middle Class Income,01-01-2023,142922490
+Lower middle income,01-01-2023,97001315
+Low income,01-01-2023,2268178
+High income,31-12-2022,418269864
+Middle Class Income,31-12-2022,142788132
+Lower middle income,31-12-2022,96998079
+Low income,31-12-2022,2267761
+High income,30-12-2022,418025122
+Middle Class Income,30-12-2022,142773157
+Lower middle income,30-12-2022,96994288
+Low income,30-12-2022,2267725
+High income,29-12-2022,417506138
+Middle Class Income,29-12-2022,142715177
+Lower middle income,29-12-2022,96989661
+Low income,29-12-2022,2267319
+High income,28-12-2022,416912153
+Middle Class Income,28-12-2022,142643541
+Lower middle income,28-12-2022,96985172
+Low income,28-12-2022,2267032
+High income,27-12-2022,416354857
+Middle Class Income,27-12-2022,142578944
+Lower middle income,27-12-2022,96977584
+Low income,27-12-2022,2266722
+High income,26-12-2022,415761883
+Middle Class Income,26-12-2022,142521248
+Lower middle income,26-12-2022,96975491
+Low income,26-12-2022,2266311
+High income,25-12-2022,415486757
+Middle Class Income,25-12-2022,142281591
+Lower middle income,25-12-2022,96971966
+Low income,25-12-2022,2265805
+High income,24-12-2022,415256172
+Middle Class Income,24-12-2022,142332821
+Lower middle income,24-12-2022,96965574
+Low income,24-12-2022,2265558
+High income,23-12-2022,414955929
+Middle Class Income,23-12-2022,142291617
+Lower middle income,23-12-2022,96963278
+Low income,23-12-2022,2265380
+High income,22-12-2022,414360006
+Middle Class Income,22-12-2022,142254536
+Lower middle income,22-12-2022,96956249
+Low income,22-12-2022,2265052
+High income,21-12-2022,413688946
+Middle Class Income,21-12-2022,142177915
+Lower middle income,21-12-2022,96947308
+Low income,21-12-2022,2264600
+High income,20-12-2022,413055014
+Middle Class Income,20-12-2022,142108922
+Lower middle income,20-12-2022,96940207
+Low income,20-12-2022,2264149
+High income,19-12-2022,412437627
+Middle Class Income,19-12-2022,142022524
+Lower middle income,19-12-2022,96936680
+Low income,19-12-2022,2263308
+High income,18-12-2022,412011529
+Middle Class Income,18-12-2022,141868054
+Lower middle income,18-12-2022,96931369
+Low income,18-12-2022,2263182
+High income,17-12-2022,411752053
+Middle Class Income,17-12-2022,141848996
+Lower middle income,17-12-2022,96926683
+Low income,17-12-2022,2262945
+High income,16-12-2022,411496147
+Middle Class Income,16-12-2022,141810751
+Lower middle income,16-12-2022,96920723
+Low income,16-12-2022,2262796
+High income,15-12-2022,410854149
+Middle Class Income,15-12-2022,141727263
+Lower middle income,15-12-2022,96915187
+Low income,15-12-2022,2262287
+High income,14-12-2022,410205360
+Middle Class Income,14-12-2022,141636591
+Lower middle income,14-12-2022,96904965
+Low income,14-12-2022,2261866
+High income,13-12-2022,409605233
+Middle Class Income,13-12-2022,141560246
+Lower middle income,13-12-2022,96896184
+Low income,13-12-2022,2261557
+High income,12-12-2022,408959649
+Middle Class Income,12-12-2022,141447187
+Lower middle income,12-12-2022,96876984
+Low income,12-12-2022,2261379
+High income,11-12-2022,408540684
+Middle Class Income,11-12-2022,141302038
+Lower middle income,11-12-2022,96869062
+Low income,11-12-2022,2260770
+High income,10-12-2022,408303919
+Middle Class Income,10-12-2022,141245545
+Lower middle income,10-12-2022,96863436
+Low income,10-12-2022,2260530
+High income,09-12-2022,408061843
+Middle Class Income,09-12-2022,141217359
+Lower middle income,09-12-2022,96859327
+Low income,09-12-2022,2260399
+High income,08-12-2022,407433268
+Middle Class Income,08-12-2022,141182362
+Lower middle income,08-12-2022,96852718
+Low income,08-12-2022,2260272
+High income,07-12-2022,406829935
+Middle Class Income,07-12-2022,140987834
+Lower middle income,07-12-2022,96841887
+Low income,07-12-2022,2260104
+High income,06-12-2022,406279305
+Middle Class Income,06-12-2022,140913643
+Lower middle income,06-12-2022,96833948
+Low income,06-12-2022,2259557
+High income,05-12-2022,405703683
+Middle Class Income,05-12-2022,140871922
+Lower middle income,05-12-2022,96827040
+Low income,05-12-2022,2259363
+High income,04-12-2022,405322340
+Middle Class Income,04-12-2022,140753737
+Lower middle income,04-12-2022,96822017
+Low income,04-12-2022,2258921
+High income,03-12-2022,405136412
+Middle Class Income,03-12-2022,140687653
+Lower middle income,03-12-2022,96817315
+Low income,03-12-2022,2258597
+High income,02-12-2022,404930811
+Middle Class Income,02-12-2022,140600188
+Lower middle income,02-12-2022,96810653
+Low income,02-12-2022,2258545
+High income,01-12-2022,404308237
+Middle Class Income,01-12-2022,140474088
+Lower middle income,01-12-2022,96797894
+Low income,01-12-2022,2258438
+High income,30-11-2022,403757625
+Middle Class Income,30-11-2022,140328078
+Lower middle income,30-11-2022,96788859
+Low income,30-11-2022,2258202
+High income,29-11-2022,403266632
+Middle Class Income,29-11-2022,140293721
+Lower middle income,29-11-2022,96779047
+Low income,29-11-2022,2257751
+High income,28-11-2022,402716459
+Middle Class Income,28-11-2022,140122967
+Lower middle income,28-11-2022,96769676
+Low income,28-11-2022,2257365
+High income,27-11-2022,402369365
+Middle Class Income,27-11-2022,140071122
+Lower middle income,27-11-2022,96763413
+Low income,27-11-2022,2256763
+High income,26-11-2022,402179676
+Middle Class Income,26-11-2022,140004183
+Lower middle income,26-11-2022,96756682
+Low income,26-11-2022,2256725
+High income,25-11-2022,401962758
+Middle Class Income,25-11-2022,139959233
+Lower middle income,25-11-2022,96748069
+Low income,25-11-2022,2256642
+High income,24-11-2022,401369993
+Middle Class Income,24-11-2022,139863492
+Lower middle income,24-11-2022,96738714
+Low income,24-11-2022,2256584
+High income,23-11-2022,401010729
+Middle Class Income,23-11-2022,139812803
+Lower middle income,23-11-2022,96728683
+Low income,23-11-2022,2256364
+High income,22-11-2022,400560072
+Middle Class Income,22-11-2022,139691238
+Lower middle income,22-11-2022,96710530
+Low income,22-11-2022,2256096
+High income,21-11-2022,400075348
+Middle Class Income,21-11-2022,139613075
+Lower middle income,21-11-2022,96699376
+Low income,21-11-2022,2255905
+High income,20-11-2022,399779990
+Middle Class Income,20-11-2022,139574097
+Lower middle income,20-11-2022,96692238
+Low income,20-11-2022,2255724
+High income,19-11-2022,399611480
+Middle Class Income,19-11-2022,139527988
+Lower middle income,19-11-2022,96684770
+Low income,19-11-2022,2255406
+High income,18-11-2022,399427100
+Middle Class Income,18-11-2022,139473855
+Lower middle income,18-11-2022,96675999
+Low income,18-11-2022,2255361
+High income,17-11-2022,398881572
+Middle Class Income,17-11-2022,139403831
+Lower middle income,17-11-2022,96661510
+Low income,17-11-2022,2254943
+High income,16-11-2022,398463940
+Middle Class Income,16-11-2022,139352867
+Lower middle income,16-11-2022,96651056
+Low income,16-11-2022,2254750
+High income,15-11-2022,398080387
+Middle Class Income,15-11-2022,139269430
+Lower middle income,15-11-2022,96632039
+Low income,15-11-2022,2254563
+High income,14-11-2022,397620835
+Middle Class Income,14-11-2022,139236998
+Lower middle income,14-11-2022,96620548
+Low income,14-11-2022,2254300
+High income,13-11-2022,397319444
+Middle Class Income,13-11-2022,139209986
+Lower middle income,13-11-2022,96602775
+Low income,13-11-2022,2253916
+High income,12-11-2022,397160190
+Middle Class Income,12-11-2022,139193973
+Lower middle income,12-11-2022,96594707
+Low income,12-11-2022,2253747
+High income,11-11-2022,396963303
+Middle Class Income,11-11-2022,139157569
+Lower middle income,11-11-2022,96585534
+Low income,11-11-2022,2253706
+High income,10-11-2022,396530489
+Middle Class Income,10-11-2022,139111924
+Lower middle income,10-11-2022,96575779
+Low income,10-11-2022,2253551
+High income,09-11-2022,396136869
+Middle Class Income,09-11-2022,139058931
+Lower middle income,09-11-2022,96562541
+Low income,09-11-2022,2253121
+High income,08-11-2022,395742828
+Middle Class Income,08-11-2022,139028444
+Lower middle income,08-11-2022,96553145
+Low income,08-11-2022,2252952
+High income,07-11-2022,395321402
+Middle Class Income,07-11-2022,139008159
+Lower middle income,07-11-2022,96544379
+Low income,07-11-2022,2252663
+High income,06-11-2022,395047531
+Middle Class Income,06-11-2022,138984189
+Lower middle income,06-11-2022,96537963
+Low income,06-11-2022,2252308
+High income,05-11-2022,394881853
+Middle Class Income,05-11-2022,138969708
+Lower middle income,05-11-2022,96531653
+Low income,05-11-2022,2252158
+High income,04-11-2022,394710568
+Middle Class Income,04-11-2022,138947945
+Lower middle income,04-11-2022,96523491
+Low income,04-11-2022,2252066
+High income,03-11-2022,394303371
+Middle Class Income,03-11-2022,138919693
+Lower middle income,03-11-2022,96515101
+Low income,03-11-2022,2251768
+High income,02-11-2022,393864601
+Middle Class Income,02-11-2022,138892065
+Lower middle income,02-11-2022,96488126
+Low income,02-11-2022,2251627
+High income,01-11-2022,393542754
+Middle Class Income,01-11-2022,138873996
+Lower middle income,01-11-2022,96480395
+Low income,01-11-2022,2250968
+High income,31-10-2022,393174890
+Middle Class Income,31-10-2022,138848583
+Lower middle income,31-10-2022,96472117
+Low income,31-10-2022,2250844
+High income,30-10-2022,392910714
+Middle Class Income,30-10-2022,138819150
+Lower middle income,30-10-2022,96465735
+Low income,30-10-2022,2250507
+High income,29-10-2022,392770254
+Middle Class Income,29-10-2022,138798900
+Lower middle income,29-10-2022,96459344
+Low income,29-10-2022,2250293
+High income,28-10-2022,392592964
+Middle Class Income,28-10-2022,138784174
+Lower middle income,28-10-2022,96452353
+Low income,28-10-2022,2250205
+High income,27-10-2022,392255955
+Middle Class Income,27-10-2022,138767632
+Lower middle income,27-10-2022,96442635
+Low income,27-10-2022,2249966
+High income,26-10-2022,391818158
+Middle Class Income,26-10-2022,138743781
+Lower middle income,26-10-2022,96433617
+Low income,26-10-2022,2249825
+High income,25-10-2022,391382368
+Middle Class Income,25-10-2022,138720402
+Lower middle income,25-10-2022,96426093
+Low income,25-10-2022,2249562
+High income,24-10-2022,390844515
+Middle Class Income,24-10-2022,138686821
+Lower middle income,24-10-2022,96402759
+Low income,24-10-2022,2249364
+High income,23-10-2022,390485007
+Middle Class Income,23-10-2022,138669081
+Lower middle income,23-10-2022,96394355
+Low income,23-10-2022,2248998
+High income,22-10-2022,390348608
+Middle Class Income,22-10-2022,138650573
+Lower middle income,22-10-2022,96388584
+Low income,22-10-2022,2248880
+High income,21-10-2022,390188657
+Middle Class Income,21-10-2022,138635533
+Lower middle income,21-10-2022,96381355
+Low income,21-10-2022,2248765
+High income,20-10-2022,389792791
+Middle Class Income,20-10-2022,138609024
+Lower middle income,20-10-2022,96373392
+Low income,20-10-2022,2248510
+High income,19-10-2022,389226621
+Middle Class Income,19-10-2022,138588593
+Lower middle income,19-10-2022,96364962
+Low income,19-10-2022,2248234
+High income,18-10-2022,388751484
+Middle Class Income,18-10-2022,138545409
+Lower middle income,18-10-2022,96355585
+Low income,18-10-2022,2248153
+High income,17-10-2022,388172287
+Middle Class Income,17-10-2022,138526628
+Lower middle income,17-10-2022,96325083
+Low income,17-10-2022,2247896
+High income,16-10-2022,387800657
+Middle Class Income,16-10-2022,138508686
+Lower middle income,16-10-2022,96238647
+Low income,16-10-2022,2247390
+High income,15-10-2022,387635588
+Middle Class Income,15-10-2022,138489172
+Lower middle income,15-10-2022,96231216
+Low income,15-10-2022,2247256
+High income,14-10-2022,387449983
+Middle Class Income,14-10-2022,138465362
+Lower middle income,14-10-2022,96222649
+Low income,14-10-2022,2247150
+High income,13-10-2022,387013528
+Middle Class Income,13-10-2022,138435928
+Lower middle income,13-10-2022,96213931
+Low income,13-10-2022,2246903
+High income,12-10-2022,386395219
+Middle Class Income,12-10-2022,138401537
+Lower middle income,12-10-2022,96203965
+Low income,12-10-2022,2246753
+High income,11-10-2022,385880470
+Middle Class Income,11-10-2022,138378175
+Lower middle income,11-10-2022,96192081
+Low income,11-10-2022,2246593
+High income,10-10-2022,385236235
+Middle Class Income,10-10-2022,138340663
+Lower middle income,10-10-2022,96184077
+Low income,10-10-2022,2246244
+High income,09-10-2022,384858509
+Middle Class Income,09-10-2022,138273324
+Lower middle income,09-10-2022,96175706
+Low income,09-10-2022,2245996
+High income,08-10-2022,384696315
+Middle Class Income,08-10-2022,138223820
+Lower middle income,08-10-2022,96168670
+Low income,08-10-2022,2245796
+High income,07-10-2022,384513675
+Middle Class Income,07-10-2022,138195979
+Lower middle income,07-10-2022,96160241
+Low income,07-10-2022,2245702
+High income,06-10-2022,383985536
+Middle Class Income,06-10-2022,138160684
+Lower middle income,06-10-2022,96149325
+Low income,06-10-2022,2245492
+High income,05-10-2022,383399167
+Middle Class Income,05-10-2022,138119436
+Lower middle income,05-10-2022,96136720
+Low income,05-10-2022,2245159
+High income,04-10-2022,382880411
+Middle Class Income,04-10-2022,138068427
+Lower middle income,04-10-2022,96124095
+Low income,04-10-2022,2244930
+High income,03-10-2022,382320565
+Middle Class Income,03-10-2022,138037358
+Lower middle income,03-10-2022,96115074
+Low income,03-10-2022,2244752
+High income,02-10-2022,382055938
+Middle Class Income,02-10-2022,137994373
+Lower middle income,02-10-2022,96103250
+Low income,02-10-2022,2244239
+High income,01-10-2022,381899415
+Middle Class Income,01-10-2022,137958806
+Lower middle income,01-10-2022,96094797
+Low income,01-10-2022,2244081
+High income,30-09-2022,381716870
+Middle Class Income,30-09-2022,137912020
+Lower middle income,30-09-2022,96083399
+Low income,30-09-2022,2243917
+High income,29-09-2022,381323622
+Middle Class Income,29-09-2022,137844803
+Lower middle income,29-09-2022,96071594
+Low income,29-09-2022,2243633
+High income,28-09-2022,380791670
+Middle Class Income,28-09-2022,137789039
+Lower middle income,28-09-2022,96015632
+Low income,28-09-2022,2243251
+High income,27-09-2022,380320236
+Middle Class Income,27-09-2022,137722771
+Lower middle income,27-09-2022,96003491
+Low income,27-09-2022,2243068
+High income,26-09-2022,379789580
+Middle Class Income,26-09-2022,137666018
+Lower middle income,26-09-2022,95992180
+Low income,26-09-2022,2242261
+High income,25-09-2022,379442135
+Middle Class Income,25-09-2022,137601771
+Lower middle income,25-09-2022,95981348
+Low income,25-09-2022,2242026
+High income,24-09-2022,379290621
+Middle Class Income,24-09-2022,137542873
+Lower middle income,24-09-2022,95969101
+Low income,24-09-2022,2241785
+High income,23-09-2022,379120337
+Middle Class Income,23-09-2022,137461608
+Lower middle income,23-09-2022,95956483
+Low income,23-09-2022,2241666
+High income,22-09-2022,378728364
+Middle Class Income,22-09-2022,137386971
+Lower middle income,22-09-2022,95905548
+Low income,22-09-2022,2241440
+High income,21-09-2022,378232352
+Middle Class Income,21-09-2022,137279040
+Lower middle income,21-09-2022,95890290
+Low income,21-09-2022,2241108
+High income,20-09-2022,377800850
+Middle Class Income,20-09-2022,137210558
+Lower middle income,20-09-2022,95872993
+Low income,20-09-2022,2240727
+High income,19-09-2022,377331288
+Middle Class Income,19-09-2022,137140241
+Lower middle income,19-09-2022,95859624
+Low income,19-09-2022,2240397
+High income,18-09-2022,377010911
+Middle Class Income,18-09-2022,137057783
+Lower middle income,18-09-2022,95845987
+Low income,18-09-2022,2239909
+High income,17-09-2022,376843208
+Middle Class Income,17-09-2022,136984093
+Lower middle income,17-09-2022,95833073
+Low income,17-09-2022,2239687
+High income,16-09-2022,376637263
+Middle Class Income,16-09-2022,136909661
+Lower middle income,16-09-2022,95818610
+Low income,16-09-2022,2239479
+High income,15-09-2022,376267354
+Middle Class Income,15-09-2022,136841380
+Lower middle income,15-09-2022,95801436
+Low income,15-09-2022,2239233
+High income,14-09-2022,375776450
+Middle Class Income,14-09-2022,136763465
+Lower middle income,14-09-2022,95760052
+Low income,14-09-2022,2238493
+High income,13-09-2022,375179896
+Middle Class Income,13-09-2022,136679867
+Lower middle income,13-09-2022,95742356
+Low income,13-09-2022,2237969
+High income,12-09-2022,374728063
+Middle Class Income,12-09-2022,136603191
+Lower middle income,12-09-2022,95723135
+Low income,12-09-2022,2237210
+High income,11-09-2022,374383579
+Middle Class Income,11-09-2022,136474771
+Lower middle income,11-09-2022,95711291
+Low income,11-09-2022,2236845
+High income,10-09-2022,374186733
+Middle Class Income,10-09-2022,136371602
+Lower middle income,10-09-2022,95697479
+Low income,10-09-2022,2236439
+High income,09-09-2022,373966150
+Middle Class Income,09-09-2022,136295452
+Lower middle income,09-09-2022,95681441
+Low income,09-09-2022,2236127
+High income,08-09-2022,373563746
+Middle Class Income,08-09-2022,136190457
+Lower middle income,08-09-2022,95663583
+Low income,08-09-2022,2235709
+High income,07-09-2022,373063111
+Middle Class Income,07-09-2022,136125750
+Lower middle income,07-09-2022,95645556
+Low income,07-09-2022,2235247
+High income,06-09-2022,372537156
+Middle Class Income,06-09-2022,136058895
+Lower middle income,06-09-2022,95622983
+Low income,06-09-2022,2234449
+High income,05-09-2022,371961391
+Middle Class Income,05-09-2022,135993305
+Lower middle income,05-09-2022,95590765
+Low income,05-09-2022,2233964
+High income,04-09-2022,371602373
+Middle Class Income,04-09-2022,135911745
+Lower middle income,04-09-2022,95574024
+Low income,04-09-2022,2233578
+High income,03-09-2022,371370600
+Middle Class Income,03-09-2022,135789116
+Lower middle income,03-09-2022,95558729
+Low income,03-09-2022,2232947
+High income,02-09-2022,371075228
+Middle Class Income,02-09-2022,135725997
+Lower middle income,02-09-2022,95541133
+Low income,02-09-2022,2232451
+High income,01-09-2022,370620602
+Middle Class Income,01-09-2022,135542213
+Lower middle income,01-09-2022,95522698
+Low income,01-09-2022,2231920
+High income,31-08-2022,370061003
+Middle Class Income,31-08-2022,135458039
+Lower middle income,31-08-2022,95487380
+Low income,31-08-2022,2231439
+High income,30-08-2022,369426492
+Middle Class Income,30-08-2022,135373563
+Lower middle income,30-08-2022,95453501
+Low income,30-08-2022,2230998
+High income,29-08-2022,368794849
+Middle Class Income,29-08-2022,135290041
+Lower middle income,29-08-2022,95420830
+Low income,29-08-2022,2230696
+High income,28-08-2022,368317533
+Middle Class Income,28-08-2022,135204666
+Lower middle income,28-08-2022,95407338
+Low income,28-08-2022,2229669
+High income,27-08-2022,368028683
+Middle Class Income,27-08-2022,135106999
+Lower middle income,27-08-2022,95388248
+Low income,27-08-2022,2229123
+High income,26-08-2022,367661120
+Middle Class Income,26-08-2022,135045028
+Lower middle income,26-08-2022,95365277
+Low income,26-08-2022,2229064
+High income,25-08-2022,367071417
+Middle Class Income,25-08-2022,134959650
+Lower middle income,25-08-2022,95338381
+Low income,25-08-2022,2228871
+High income,24-08-2022,366360627
+Middle Class Income,24-08-2022,134844847
+Lower middle income,24-08-2022,95299647
+Low income,24-08-2022,2228322
+High income,23-08-2022,365637206
+Middle Class Income,23-08-2022,134715369
+Lower middle income,23-08-2022,95268760
+Low income,23-08-2022,2227594
+High income,22-08-2022,364878967
+Middle Class Income,22-08-2022,134614167
+Lower middle income,22-08-2022,95239379
+Low income,22-08-2022,2227203
+High income,21-08-2022,364276751
+Middle Class Income,21-08-2022,134534230
+Lower middle income,21-08-2022,95211466
+Low income,21-08-2022,2226116
+High income,20-08-2022,363900486
+Middle Class Income,20-08-2022,134451564
+Lower middle income,20-08-2022,95186235
+Low income,20-08-2022,2225831
+High income,19-08-2022,363429586
+Middle Class Income,19-08-2022,134379007
+Lower middle income,19-08-2022,95155664
+Low income,19-08-2022,2225582
+High income,18-08-2022,362754241
+Middle Class Income,18-08-2022,134293543
+Lower middle income,18-08-2022,95115574
+Low income,18-08-2022,2224922
+High income,17-08-2022,361968592
+Middle Class Income,17-08-2022,134170699
+Lower middle income,17-08-2022,95079832
+Low income,17-08-2022,2224516
+High income,16-08-2022,361110862
+Middle Class Income,16-08-2022,134074785
+Lower middle income,16-08-2022,95043682
+Low income,16-08-2022,2223908
+High income,15-08-2022,360325178
+Middle Class Income,15-08-2022,133814241
+Lower middle income,15-08-2022,95007622
+Low income,15-08-2022,2222930
+High income,14-08-2022,359831428
+Middle Class Income,14-08-2022,133488834
+Lower middle income,14-08-2022,94971645
+Low income,14-08-2022,2222358
+High income,13-08-2022,359493730
+Middle Class Income,13-08-2022,133403115
+Lower middle income,13-08-2022,94934714
+Low income,13-08-2022,2222028
+High income,12-08-2022,359001523
+Middle Class Income,12-08-2022,133293801
+Lower middle income,12-08-2022,94900010
+Low income,12-08-2022,2221836
+High income,11-08-2022,358378397
+Middle Class Income,11-08-2022,133205930
+Lower middle income,11-08-2022,94859172
+Low income,11-08-2022,2220820
+High income,10-08-2022,357568638
+Middle Class Income,10-08-2022,133065265
+Lower middle income,10-08-2022,94805010
+Low income,10-08-2022,2220284
+High income,09-08-2022,356666460
+Middle Class Income,09-08-2022,132990176
+Lower middle income,09-08-2022,94756389
+Low income,09-08-2022,2219372
+High income,08-08-2022,355773190
+Middle Class Income,08-08-2022,132881148
+Lower middle income,08-08-2022,94719006
+Low income,08-08-2022,2218761
+High income,07-08-2022,355090562
+Middle Class Income,07-08-2022,132812098
+Lower middle income,07-08-2022,94655090
+Low income,07-08-2022,2217633
+High income,06-08-2022,354711340
+Middle Class Income,06-08-2022,132716261
+Lower middle income,06-08-2022,94633096
+Low income,06-08-2022,2216891
+High income,05-08-2022,354235281
+Middle Class Income,05-08-2022,132206829
+Lower middle income,05-08-2022,94440636
+Low income,05-08-2022,2216687
+High income,04-08-2022,353483108
+Middle Class Income,04-08-2022,132113136
+Lower middle income,04-08-2022,94387335
+Low income,04-08-2022,2214943
+High income,03-08-2022,352612861
+Middle Class Income,03-08-2022,131989526
+Lower middle income,03-08-2022,93927781
+Low income,03-08-2022,2214398
+High income,02-08-2022,351655707
+Middle Class Income,02-08-2022,131847529
+Lower middle income,02-08-2022,93872166
+Low income,02-08-2022,2213764
+High income,01-08-2022,350660727
+Middle Class Income,01-08-2022,131724304
+Lower middle income,01-08-2022,93802397
+Low income,01-08-2022,2211148
+High income,31-07-2022,349940135
+Middle Class Income,31-07-2022,131608642
+Lower middle income,31-07-2022,93765550
+Low income,31-07-2022,2210704
+High income,30-07-2022,349560245
+Middle Class Income,30-07-2022,131486911
+Lower middle income,30-07-2022,93723007
+Low income,30-07-2022,2210330
+High income,29-07-2022,349091099
+Middle Class Income,29-07-2022,131423469
+Lower middle income,29-07-2022,93679797
+Low income,29-07-2022,2210088
+High income,28-07-2022,348257602
+Middle Class Income,28-07-2022,130939512
+Lower middle income,28-07-2022,93623229
+Low income,28-07-2022,2209164
+High income,27-07-2022,347333182
+Middle Class Income,27-07-2022,130808514
+Lower middle income,27-07-2022,93563809
+Low income,27-07-2022,2208304
+High income,26-07-2022,346142502
+Middle Class Income,26-07-2022,130641776
+Lower middle income,26-07-2022,93495393
+Low income,26-07-2022,2207880
+High income,25-07-2022,345164518
+Middle Class Income,25-07-2022,130501315
+Lower middle income,25-07-2022,93418202
+Low income,25-07-2022,2206832
+High income,24-07-2022,344328755
+Middle Class Income,24-07-2022,130410673
+Lower middle income,24-07-2022,93372912
+Low income,24-07-2022,2204720
+High income,23-07-2022,343942950
+Middle Class Income,23-07-2022,130287761
+Lower middle income,23-07-2022,93331271
+Low income,23-07-2022,2204230
+High income,22-07-2022,343468881
+Middle Class Income,22-07-2022,130171909
+Lower middle income,22-07-2022,93285000
+Low income,22-07-2022,2203877
+High income,21-07-2022,342565482
+Middle Class Income,21-07-2022,130034512
+Lower middle income,21-07-2022,93231703
+Low income,21-07-2022,2203484
+High income,20-07-2022,341646274
+Middle Class Income,20-07-2022,129854694
+Lower middle income,20-07-2022,93177796
+Low income,20-07-2022,2202646
+High income,19-07-2022,340537329
+Middle Class Income,19-07-2022,129424244
+Lower middle income,19-07-2022,93116019
+Low income,19-07-2022,2202110
+High income,18-07-2022,339218022
+Middle Class Income,18-07-2022,129274071
+Lower middle income,18-07-2022,93042241
+Low income,18-07-2022,2200570
+High income,17-07-2022,338163619
+Middle Class Income,17-07-2022,129172352
+Lower middle income,17-07-2022,93000499
+Low income,17-07-2022,2199994
+High income,16-07-2022,337824920
+Middle Class Income,16-07-2022,129088395
+Lower middle income,16-07-2022,92964458
+Low income,16-07-2022,2199472
+High income,15-07-2022,337431964
+Middle Class Income,15-07-2022,128974391
+Lower middle income,15-07-2022,92919033
+Low income,15-07-2022,2199098
+High income,14-07-2022,336692131
+Middle Class Income,14-07-2022,128758833
+Lower middle income,14-07-2022,92874809
+Low income,14-07-2022,2197519
+High income,13-07-2022,335897067
+Middle Class Income,13-07-2022,128598601
+Lower middle income,13-07-2022,92828470
+Low income,13-07-2022,2197100
+High income,12-07-2022,334792744
+Middle Class Income,12-07-2022,128321762
+Lower middle income,12-07-2022,92783681
+Low income,12-07-2022,2196707
+High income,11-07-2022,333757918
+Middle Class Income,11-07-2022,128185877
+Lower middle income,11-07-2022,92731851
+Low income,11-07-2022,2196203
+High income,10-07-2022,332819045
+Middle Class Income,10-07-2022,128097992
+Lower middle income,10-07-2022,92705773
+Low income,10-07-2022,2195365
+High income,09-07-2022,332532237
+Middle Class Income,09-07-2022,127997269
+Lower middle income,09-07-2022,92671578
+Low income,09-07-2022,2194457
+High income,08-07-2022,332199369
+Middle Class Income,08-07-2022,127859694
+Lower middle income,08-07-2022,92638840
+Low income,08-07-2022,2194107
+High income,07-07-2022,331348849
+Middle Class Income,07-07-2022,127750772
+Lower middle income,07-07-2022,92594063
+Low income,07-07-2022,2193322
+High income,06-07-2022,330498492
+Middle Class Income,06-07-2022,127587361
+Lower middle income,06-07-2022,92556137
+Low income,06-07-2022,2192152
+High income,05-07-2022,329468585
+Middle Class Income,05-07-2022,127445988
+Lower middle income,05-07-2022,92502608
+Low income,05-07-2022,2191314
+High income,04-07-2022,328434266
+Middle Class Income,04-07-2022,127305028
+Lower middle income,04-07-2022,92473660
+Low income,04-07-2022,2190836
+High income,03-07-2022,327746608
+Middle Class Income,03-07-2022,127171149
+Lower middle income,03-07-2022,92443821
+Low income,03-07-2022,2190314
+High income,02-07-2022,327518494
+Middle Class Income,02-07-2022,127069590
+Lower middle income,02-07-2022,92416424
+Low income,02-07-2022,2189117
+High income,01-07-2022,327249427
+Middle Class Income,01-07-2022,127008817
+Lower middle income,01-07-2022,92387646
+Low income,01-07-2022,2188532
+High income,30-06-2022,326458653
+Middle Class Income,30-06-2022,126882945
+Lower middle income,30-06-2022,92355776
+Low income,30-06-2022,2187171
+High income,29-06-2022,325662707
+Middle Class Income,29-06-2022,126636273
+Lower middle income,29-06-2022,92321719
+Low income,29-06-2022,2185979
+High income,28-06-2022,324836697
+Middle Class Income,28-06-2022,126573503
+Lower middle income,28-06-2022,92279510
+Low income,28-06-2022,2185168
+High income,27-06-2022,324043815
+Middle Class Income,27-06-2022,126455227
+Lower middle income,27-06-2022,92249534
+Low income,27-06-2022,2184317
+High income,26-06-2022,323332443
+Middle Class Income,26-06-2022,126317403
+Lower middle income,26-06-2022,92226909
+Low income,26-06-2022,2183492
+High income,25-06-2022,323122963
+Middle Class Income,25-06-2022,126268241
+Lower middle income,25-06-2022,92199803
+Low income,25-06-2022,2182661
+High income,24-06-2022,322883160
+Middle Class Income,24-06-2022,126214356
+Lower middle income,24-06-2022,92177420
+Low income,24-06-2022,2182011
+High income,23-06-2022,322233923
+Middle Class Income,23-06-2022,126117264
+Lower middle income,23-06-2022,92147380
+Low income,23-06-2022,2181083
+High income,22-06-2022,321610746
+Middle Class Income,22-06-2022,125987967
+Lower middle income,22-06-2022,92118446
+Low income,22-06-2022,2179173
+High income,21-06-2022,320927032
+Middle Class Income,21-06-2022,125892827
+Lower middle income,21-06-2022,92092838
+Low income,21-06-2022,2178003
+High income,20-06-2022,320237361
+Middle Class Income,20-06-2022,125796545
+Lower middle income,20-06-2022,92063643
+Low income,20-06-2022,2176936
+High income,19-06-2022,319661703
+Middle Class Income,19-06-2022,125637196
+Lower middle income,19-06-2022,92045682
+Low income,19-06-2022,2175456
+High income,18-06-2022,319477123
+Middle Class Income,18-06-2022,125574176
+Lower middle income,18-06-2022,92026147
+Low income,18-06-2022,2174179
+High income,17-06-2022,319281606
+Middle Class Income,17-06-2022,125561693
+Lower middle income,17-06-2022,92006794
+Low income,17-06-2022,2173048
+High income,16-06-2022,318794418
+Middle Class Income,16-06-2022,125539852
+Lower middle income,16-06-2022,91984416
+Low income,16-06-2022,2171409
+High income,15-06-2022,318272079
+Middle Class Income,15-06-2022,125500691
+Lower middle income,15-06-2022,91964911
+Low income,15-06-2022,2169865
+High income,14-06-2022,317666594
+Middle Class Income,14-06-2022,125404942
+Lower middle income,14-06-2022,91945568
+Low income,14-06-2022,2168393
+High income,13-06-2022,316942516
+Middle Class Income,13-06-2022,125289661
+Lower middle income,13-06-2022,91929282
+Low income,13-06-2022,2166973
+High income,12-06-2022,316521864
+Middle Class Income,12-06-2022,125233210
+Lower middle income,12-06-2022,91879769
+Low income,12-06-2022,2165639
+High income,11-06-2022,316361346
+Middle Class Income,11-06-2022,125207965
+Lower middle income,11-06-2022,91868244
+Low income,11-06-2022,2164792
+High income,10-06-2022,316142983
+Middle Class Income,10-06-2022,125158230
+Lower middle income,10-06-2022,91853731
+Low income,10-06-2022,2163772
+High income,09-06-2022,315683565
+Middle Class Income,09-06-2022,125075666
+Lower middle income,09-06-2022,91841207
+Low income,09-06-2022,2161869
+High income,08-06-2022,315201963
+Middle Class Income,08-06-2022,125005376
+Lower middle income,08-06-2022,91829520
+Low income,08-06-2022,2160715
+High income,07-06-2022,314578409
+Middle Class Income,07-06-2022,124934951
+Lower middle income,07-06-2022,91818013
+Low income,07-06-2022,2159564
+High income,06-06-2022,314071124
+Middle Class Income,06-06-2022,124841482
+Lower middle income,06-06-2022,91807925
+Low income,06-06-2022,2158526
+High income,05-06-2022,313724154
+Middle Class Income,05-06-2022,124765290
+Lower middle income,05-06-2022,91798339
+Low income,05-06-2022,2156492
+High income,04-06-2022,313537246
+Middle Class Income,04-06-2022,124698960
+Lower middle income,04-06-2022,91789020
+Low income,04-06-2022,2156158
+High income,03-06-2022,313313388
+Middle Class Income,03-06-2022,124677994
+Lower middle income,03-06-2022,91781745
+Low income,03-06-2022,2155264
+High income,02-06-2022,312830155
+Middle Class Income,02-06-2022,124626259
+Lower middle income,02-06-2022,91774025
+Low income,02-06-2022,2154420
+High income,01-06-2022,312377251
+Middle Class Income,01-06-2022,124558924
+Lower middle income,01-06-2022,91765359
+Low income,01-06-2022,2152910
+High income,31-05-2022,311766781
+Middle Class Income,31-05-2022,124482472
+Lower middle income,31-05-2022,91754642
+Low income,31-05-2022,2152188
+High income,30-05-2022,311210293
+Middle Class Income,30-05-2022,124420835
+Lower middle income,30-05-2022,91748073
+Low income,30-05-2022,2151391
+High income,29-05-2022,310926711
+Middle Class Income,29-05-2022,124368155
+Lower middle income,29-05-2022,91741007
+Low income,29-05-2022,2150455
+High income,28-05-2022,310729918
+Middle Class Income,28-05-2022,124294588
+Lower middle income,28-05-2022,91734888
+Low income,28-05-2022,2150312
+High income,27-05-2022,310450699
+Middle Class Income,27-05-2022,124250665
+Lower middle income,27-05-2022,91729351
+Low income,27-05-2022,2150054
+High income,26-05-2022,309948311
+Middle Class Income,26-05-2022,124190177
+Lower middle income,26-05-2022,91723282
+Low income,26-05-2022,2149368
+High income,25-05-2022,309508596
+Middle Class Income,25-05-2022,124134104
+Lower middle income,25-05-2022,91716859
+Low income,25-05-2022,2149054
+High income,24-05-2022,308910698
+Middle Class Income,24-05-2022,124096171
+Lower middle income,24-05-2022,91709918
+Low income,24-05-2022,2148267
+High income,23-05-2022,308390180
+Middle Class Income,23-05-2022,124029735
+Lower middle income,23-05-2022,91702970
+Low income,23-05-2022,2147716
+High income,22-05-2022,307956232
+Middle Class Income,22-05-2022,123979056
+Lower middle income,22-05-2022,91695106
+Low income,22-05-2022,2147322
+High income,21-05-2022,307725792
+Middle Class Income,21-05-2022,123896968
+Lower middle income,21-05-2022,91691817
+Low income,21-05-2022,2147139
+High income,20-05-2022,307386907
+Middle Class Income,20-05-2022,123874189
+Lower middle income,20-05-2022,91686778
+Low income,20-05-2022,2146784
+High income,19-05-2022,306859926
+Middle Class Income,19-05-2022,123781741
+Lower middle income,19-05-2022,91680527
+Low income,19-05-2022,2146598
+High income,18-05-2022,306294925
+Middle Class Income,18-05-2022,123758687
+Lower middle income,18-05-2022,91673522
+Low income,18-05-2022,2146118
+High income,17-05-2022,305584631
+Middle Class Income,17-05-2022,123717455
+Lower middle income,17-05-2022,91665092
+Low income,17-05-2022,2145732
+High income,16-05-2022,305004748
+Middle Class Income,16-05-2022,123695140
+Lower middle income,16-05-2022,91658985
+Low income,16-05-2022,2145562
+High income,15-05-2022,304463988
+Middle Class Income,15-05-2022,123655030
+Lower middle income,15-05-2022,91650962
+Low income,15-05-2022,2144418
+High income,14-05-2022,304158812
+Middle Class Income,14-05-2022,123592189
+Lower middle income,14-05-2022,91645509
+Low income,14-05-2022,2144291
+High income,13-05-2022,303771752
+Middle Class Income,13-05-2022,123547044
+Lower middle income,13-05-2022,91639603
+Low income,13-05-2022,2144043
+High income,12-05-2022,303264986
+Middle Class Income,12-05-2022,123489037
+Lower middle income,12-05-2022,91631641
+Low income,12-05-2022,2143836
+High income,11-05-2022,302680917
+Middle Class Income,11-05-2022,123433685
+Lower middle income,11-05-2022,91619482
+Low income,11-05-2022,2143492
+High income,10-05-2022,302050001
+Middle Class Income,10-05-2022,123377646
+Lower middle income,10-05-2022,91612278
+Low income,10-05-2022,2143204
+High income,09-05-2022,301479432
+Middle Class Income,09-05-2022,123318645
+Lower middle income,09-05-2022,91601367
+Low income,09-05-2022,2142617
+High income,08-05-2022,300843412
+Middle Class Income,08-05-2022,123277368
+Lower middle income,08-05-2022,91588685
+Low income,08-05-2022,2142235
+High income,07-05-2022,300624953
+Middle Class Income,07-05-2022,123224365
+Lower middle income,07-05-2022,91581458
+Low income,07-05-2022,2142086
+High income,06-05-2022,300341825
+Middle Class Income,06-05-2022,123177046
+Lower middle income,06-05-2022,91573395
+Low income,06-05-2022,2141667
+High income,05-05-2022,299774497
+Middle Class Income,05-05-2022,123123237
+Lower middle income,05-05-2022,91564162
+Low income,05-05-2022,2141578
+High income,04-05-2022,299245018
+Middle Class Income,04-05-2022,123063318
+Lower middle income,04-05-2022,91554072
+Low income,04-05-2022,2141438
+High income,03-05-2022,298685544
+Middle Class Income,03-05-2022,123004472
+Lower middle income,03-05-2022,91545559
+Low income,03-05-2022,2141201
+High income,02-05-2022,298072263
+Middle Class Income,02-05-2022,122953726
+Lower middle income,02-05-2022,91537616
+Low income,02-05-2022,2140993
+High income,01-05-2022,297672739
+Middle Class Income,01-05-2022,122915150
+Lower middle income,01-05-2022,91528894
+Low income,01-05-2022,2140434
+High income,30-04-2022,297428504
+Middle Class Income,30-04-2022,122860158
+Lower middle income,30-04-2022,91518971
+Low income,30-04-2022,2140242
+High income,29-04-2022,297146085
+Middle Class Income,29-04-2022,122800460
+Lower middle income,29-04-2022,91507888
+Low income,29-04-2022,2140179
+High income,28-04-2022,296578061
+Middle Class Income,28-04-2022,122738237
+Lower middle income,28-04-2022,91494186
+Low income,28-04-2022,2139847
+High income,27-04-2022,295903589
+Middle Class Income,27-04-2022,122668897
+Lower middle income,27-04-2022,91479154
+Low income,27-04-2022,2139399
+High income,26-04-2022,295319267
+Middle Class Income,26-04-2022,122588850
+Lower middle income,26-04-2022,91459789
+Low income,26-04-2022,2139287
+High income,25-04-2022,294678120
+Middle Class Income,25-04-2022,122511786
+Lower middle income,25-04-2022,91399384
+Low income,25-04-2022,2139055
+High income,24-04-2022,294125853
+Middle Class Income,24-04-2022,122440785
+Lower middle income,24-04-2022,91386614
+Low income,24-04-2022,2137845
+High income,23-04-2022,293839826
+Middle Class Income,23-04-2022,122376653
+Lower middle income,23-04-2022,91371659
+Low income,23-04-2022,2137734
+High income,22-04-2022,293457245
+Middle Class Income,22-04-2022,122298027
+Lower middle income,22-04-2022,91354571
+Low income,22-04-2022,2137678
+High income,21-04-2022,292721314
+Middle Class Income,21-04-2022,122221370
+Lower middle income,21-04-2022,91335840
+Low income,21-04-2022,2137565
+High income,20-04-2022,291929138
+Middle Class Income,20-04-2022,122131996
+Lower middle income,20-04-2022,91296427
+Low income,20-04-2022,2137067
+High income,19-04-2022,291098908
+Middle Class Income,19-04-2022,122024090
+Lower middle income,19-04-2022,91274205
+Low income,19-04-2022,2136893
+High income,18-04-2022,290190381
+Middle Class Income,18-04-2022,121943897
+Lower middle income,18-04-2022,91245789
+Low income,18-04-2022,2136466
+High income,17-04-2022,289857726
+Middle Class Income,17-04-2022,121868527
+Lower middle income,17-04-2022,91196722
+Low income,17-04-2022,2136307
+High income,16-04-2022,289542858
+Middle Class Income,16-04-2022,121798662
+Lower middle income,16-04-2022,91173846
+Low income,16-04-2022,2136155
+High income,15-04-2022,289095407
+Middle Class Income,15-04-2022,121721774
+Lower middle income,15-04-2022,91144042
+Low income,15-04-2022,2136004
+High income,14-04-2022,288611085
+Middle Class Income,14-04-2022,121630874
+Lower middle income,14-04-2022,91060875
+Low income,14-04-2022,2135682
+High income,13-04-2022,287773230
+Middle Class Income,13-04-2022,121538956
+Lower middle income,13-04-2022,91028894
+Low income,13-04-2022,2135155
+High income,12-04-2022,286877093
+Middle Class Income,12-04-2022,121397614
+Lower middle income,12-04-2022,90993575
+Low income,12-04-2022,2134625
+High income,11-04-2022,285902857
+Middle Class Income,11-04-2022,121290402
+Lower middle income,11-04-2022,90956364
+Low income,11-04-2022,2134453
+High income,10-04-2022,285074779
+Middle Class Income,10-04-2022,121196024
+Lower middle income,10-04-2022,90893645
+Low income,10-04-2022,2133723
+High income,09-04-2022,284641277
+Middle Class Income,09-04-2022,121105714
+Lower middle income,09-04-2022,90855951
+Low income,09-04-2022,2133608
+High income,08-04-2022,284057083
+Middle Class Income,08-04-2022,120993671
+Lower middle income,08-04-2022,90810093
+Low income,08-04-2022,2133540
+High income,07-04-2022,283091690
+Middle Class Income,07-04-2022,120863887
+Lower middle income,07-04-2022,90731610
+Low income,07-04-2022,2133402
+High income,06-04-2022,282074449
+Middle Class Income,06-04-2022,120709023
+Lower middle income,06-04-2022,90625962
+Low income,06-04-2022,2133155
+High income,05-04-2022,281061416
+Middle Class Income,05-04-2022,120577361
+Lower middle income,05-04-2022,90551368
+Low income,05-04-2022,2132875
+High income,04-04-2022,279899620
+Middle Class Income,04-04-2022,120452645
+Lower middle income,04-04-2022,90473379
+Low income,04-04-2022,2132570
+High income,03-04-2022,278830141
+Middle Class Income,03-04-2022,120351459
+Lower middle income,03-04-2022,90411732
+Low income,03-04-2022,2132215
+High income,02-04-2022,278343204
+Middle Class Income,02-04-2022,120256369
+Lower middle income,02-04-2022,90300879
+Low income,02-04-2022,2132154
+High income,01-04-2022,277657899
+Middle Class Income,01-04-2022,120146287
+Lower middle income,01-04-2022,90223874
+Low income,01-04-2022,2131937
+High income,31-03-2022,276469205
+Middle Class Income,31-03-2022,120018166
+Lower middle income,31-03-2022,90122590
+Low income,31-03-2022,2131706
+High income,30-03-2022,275152784
+Middle Class Income,30-03-2022,119880875
+Lower middle income,30-03-2022,90013973
+Low income,30-03-2022,2131196
+High income,29-03-2022,273845685
+Middle Class Income,29-03-2022,119695614
+Lower middle income,29-03-2022,89910838
+Low income,29-03-2022,2131011
+High income,28-03-2022,272353130
+Middle Class Income,28-03-2022,119567610
+Lower middle income,28-03-2022,89780727
+Low income,28-03-2022,2130759
+High income,27-03-2022,270898301
+Middle Class Income,27-03-2022,119463194
+Lower middle income,27-03-2022,89496541
+Low income,27-03-2022,2130471
+High income,26-03-2022,270264288
+Middle Class Income,26-03-2022,119359569
+Lower middle income,26-03-2022,89383936
+Low income,26-03-2022,2130121
+High income,25-03-2022,269439298
+Middle Class Income,25-03-2022,119227955
+Lower middle income,25-03-2022,89216462
+Low income,25-03-2022,2129897
+High income,24-03-2022,268009387
+Middle Class Income,24-03-2022,119076545
+Lower middle income,24-03-2022,89039044
+Low income,24-03-2022,2129600
+High income,23-03-2022,266537546
+Middle Class Income,23-03-2022,118908636
+Lower middle income,23-03-2022,88898327
+Low income,23-03-2022,2129306
+High income,22-03-2022,265055083
+Middle Class Income,22-03-2022,118748674
+Lower middle income,22-03-2022,88737618
+Low income,22-03-2022,2128911
+High income,21-03-2022,263508042
+Middle Class Income,21-03-2022,118594858
+Lower middle income,21-03-2022,88462702
+Low income,21-03-2022,2128502
+High income,20-03-2022,261907743
+Middle Class Income,20-03-2022,118467873
+Lower middle income,20-03-2022,88311107
+Low income,20-03-2022,2127781
+High income,19-03-2022,261250879
+Middle Class Income,19-03-2022,118345909
+Lower middle income,19-03-2022,88129288
+Low income,19-03-2022,2127611
+High income,18-03-2022,260378946
+Middle Class Income,18-03-2022,118184399
+Lower middle income,18-03-2022,87683673
+Low income,18-03-2022,2127377
+High income,17-03-2022,258909489
+Middle Class Income,17-03-2022,117982482
+Lower middle income,17-03-2022,87463975
+Low income,17-03-2022,2127219
+High income,16-03-2022,257404938
+Middle Class Income,16-03-2022,117795739
+Lower middle income,16-03-2022,87078551
+Low income,16-03-2022,2126585
+High income,15-03-2022,255659310
+Middle Class Income,15-03-2022,117604101
+Lower middle income,15-03-2022,86780362
+Low income,15-03-2022,2125920
+High income,14-03-2022,254243751
+Middle Class Income,14-03-2022,117420539
+Lower middle income,14-03-2022,86572020
+Low income,14-03-2022,2125186
+High income,13-03-2022,252714771
+Middle Class Income,13-03-2022,117242958
+Lower middle income,13-03-2022,86281354
+Low income,13-03-2022,2124718
+High income,12-03-2022,251951643
+Middle Class Income,12-03-2022,117105278
+Lower middle income,12-03-2022,86044866
+Low income,12-03-2022,2124398
+High income,11-03-2022,251086682
+Middle Class Income,11-03-2022,116905941
+Lower middle income,11-03-2022,85548905
+Low income,11-03-2022,2124000
+High income,10-03-2022,249655719
+Middle Class Income,10-03-2022,116691872
+Lower middle income,10-03-2022,85322085
+Low income,10-03-2022,2123609
+High income,09-03-2022,248291285
+Middle Class Income,09-03-2022,116451187
+Lower middle income,09-03-2022,85057334
+Low income,09-03-2022,2122776
+High income,08-03-2022,246842961
+Middle Class Income,08-03-2022,116226331
+Lower middle income,08-03-2022,84742833
+Low income,08-03-2022,2121775
+High income,07-03-2022,245787149
+Middle Class Income,07-03-2022,115962046
+Lower middle income,07-03-2022,84480007
+Low income,07-03-2022,2120989
+High income,06-03-2022,244463317
+Middle Class Income,06-03-2022,115739073
+Lower middle income,06-03-2022,84286389
+Low income,06-03-2022,2120149
+High income,05-03-2022,243801280
+Middle Class Income,05-03-2022,115540089
+Lower middle income,05-03-2022,84038161
+Low income,05-03-2022,2119674
+High income,04-03-2022,243014842
+Middle Class Income,04-03-2022,115268727
+Lower middle income,04-03-2022,83806217
+Low income,04-03-2022,2119148
+High income,03-03-2022,241783978
+Middle Class Income,03-03-2022,114970331
+Lower middle income,03-03-2022,83573888
+Low income,03-03-2022,2118614
+High income,02-03-2022,240565380
+Middle Class Income,02-03-2022,114662513
+Lower middle income,02-03-2022,83326203
+Low income,02-03-2022,2117879
+High income,01-03-2022,239407274
+Middle Class Income,01-03-2022,114389270
+Lower middle income,01-03-2022,83099571
+Low income,01-03-2022,2117253
+High income,28-02-2022,238268481
+Middle Class Income,28-02-2022,114107734
+Lower middle income,28-02-2022,82922652
+Low income,28-02-2022,2116476
+High income,27-02-2022,237135793
+Middle Class Income,27-02-2022,113830433
+Lower middle income,27-02-2022,82724673
+Low income,27-02-2022,2115651
+High income,26-02-2022,236542657
+Middle Class Income,26-02-2022,113543829
+Lower middle income,26-02-2022,82552851
+Low income,26-02-2022,2115081
+High income,25-02-2022,235815235
+Middle Class Income,25-02-2022,113181092
+Lower middle income,25-02-2022,82369858
+Low income,25-02-2022,2114368
+High income,24-02-2022,234763976
+Middle Class Income,24-02-2022,112762906
+Lower middle income,24-02-2022,82185917
+Low income,24-02-2022,2113696
+High income,23-02-2022,233636332
+Middle Class Income,23-02-2022,112307336
+Lower middle income,23-02-2022,81982281
+Low income,23-02-2022,2112905
+High income,22-02-2022,232468578
+Middle Class Income,22-02-2022,111786735
+Lower middle income,22-02-2022,81754630
+Low income,22-02-2022,2111973
+High income,21-02-2022,231452426
+Middle Class Income,21-02-2022,111330748
+Lower middle income,21-02-2022,81554512
+Low income,21-02-2022,2110999
+High income,20-02-2022,230310954
+Middle Class Income,20-02-2022,110931375
+Lower middle income,20-02-2022,81392019
+Low income,20-02-2022,2108846
+High income,19-02-2022,229688483
+Middle Class Income,19-02-2022,110534312
+Lower middle income,19-02-2022,81218816
+Low income,19-02-2022,2108104
+High income,18-02-2022,228939719
+Middle Class Income,18-02-2022,110006485
+Lower middle income,18-02-2022,81019756
+Low income,18-02-2022,2106873
+High income,17-02-2022,227715425
+Middle Class Income,17-02-2022,109459365
+Lower middle income,17-02-2022,80809008
+Low income,17-02-2022,2105847
+High income,16-02-2022,226449031
+Middle Class Income,16-02-2022,108876064
+Lower middle income,16-02-2022,80597596
+Low income,16-02-2022,2105001
+High income,15-02-2022,225068275
+Middle Class Income,15-02-2022,108247374
+Lower middle income,15-02-2022,80368491
+Low income,15-02-2022,2103990
+High income,14-02-2022,223962243
+Middle Class Income,14-02-2022,107692030
+Lower middle income,14-02-2022,80160331
+Low income,14-02-2022,2102924
+High income,13-02-2022,222607137
+Middle Class Income,13-02-2022,107209383
+Lower middle income,13-02-2022,79956588
+Low income,13-02-2022,2101417
+High income,12-02-2022,221853401
+Middle Class Income,12-02-2022,106739967
+Lower middle income,12-02-2022,79775341
+Low income,12-02-2022,2100360
+High income,11-02-2022,220984974
+Middle Class Income,11-02-2022,106104530
+Lower middle income,11-02-2022,79557065
+Low income,11-02-2022,2097963
+High income,10-02-2022,219476046
+Middle Class Income,10-02-2022,105427464
+Lower middle income,10-02-2022,79320063
+Low income,10-02-2022,2096265
+High income,09-02-2022,217585268
+Middle Class Income,09-02-2022,104751538
+Lower middle income,09-02-2022,79075088
+Low income,09-02-2022,2094095
+High income,08-02-2022,216132695
+Middle Class Income,08-02-2022,104044083
+Lower middle income,08-02-2022,78804326
+Low income,08-02-2022,2092106
+High income,07-02-2022,214451621
+Middle Class Income,07-02-2022,103379397
+Lower middle income,07-02-2022,78553027
+Low income,07-02-2022,2089908
+High income,06-02-2022,212235963
+Middle Class Income,06-02-2022,102862086
+Lower middle income,06-02-2022,78313740
+Low income,06-02-2022,2087659
+High income,05-02-2022,211217453
+Middle Class Income,05-02-2022,102358861
+Lower middle income,05-02-2022,78074609
+Low income,05-02-2022,2086309
+High income,04-02-2022,210050319
+Middle Class Income,04-02-2022,101701194
+Lower middle income,04-02-2022,77799747
+Low income,04-02-2022,2083285
+High income,03-02-2022,208210125
+Middle Class Income,03-02-2022,100891119
+Lower middle income,03-02-2022,77496352
+Low income,03-02-2022,2081568
+High income,02-02-2022,206195824
+Middle Class Income,02-02-2022,100056561
+Lower middle income,02-02-2022,77154191
+Low income,02-02-2022,2079452
+High income,01-02-2022,204071928
+Middle Class Income,01-02-2022,99339705
+Lower middle income,01-02-2022,76812886
+Low income,01-02-2022,2076765
+High income,31-01-2022,201949050
+Middle Class Income,31-01-2022,98672197
+Lower middle income,31-01-2022,76477557
+Low income,31-01-2022,2073446
+High income,30-01-2022,198975985
+Middle Class Income,30-01-2022,98122830
+Lower middle income,30-01-2022,76142594
+Low income,30-01-2022,2070511
+High income,29-01-2022,197670918
+Middle Class Income,29-01-2022,97618369
+Lower middle income,29-01-2022,75777884
+Low income,29-01-2022,2068764
+High income,28-01-2022,196197094
+Middle Class Income,28-01-2022,96938218
+Lower middle income,28-01-2022,75373521
+Low income,28-01-2022,2065116
+High income,27-01-2022,193747107
+Middle Class Income,27-01-2022,96112840
+Lower middle income,27-01-2022,74971842
+Low income,27-01-2022,2063335
+High income,26-01-2022,191256391
+Middle Class Income,26-01-2022,95336530
+Lower middle income,26-01-2022,74543466
+Low income,26-01-2022,2060015
+High income,25-01-2022,188620459
+Middle Class Income,25-01-2022,94663372
+Lower middle income,25-01-2022,74094705
+Low income,25-01-2022,2056330
+High income,24-01-2022,186150020
+Middle Class Income,24-01-2022,93914907
+Lower middle income,24-01-2022,73664265
+Low income,24-01-2022,2052288
+High income,23-01-2022,183415360
+Middle Class Income,23-01-2022,93414683
+Lower middle income,23-01-2022,73269510
+Low income,23-01-2022,2047570
+High income,22-01-2022,182033060
+Middle Class Income,22-01-2022,92845674
+Lower middle income,22-01-2022,72840561
+Low income,22-01-2022,2045908
+High income,21-01-2022,180469421
+Middle Class Income,21-01-2022,92252327
+Lower middle income,21-01-2022,72354707
+Low income,21-01-2022,2041245
+High income,20-01-2022,177883984
+Middle Class Income,20-01-2022,91515463
+Lower middle income,20-01-2022,71849467
+Low income,20-01-2022,2037948
+High income,19-01-2022,175320484
+Middle Class Income,19-01-2022,90869394
+Lower middle income,19-01-2022,71333141
+Low income,19-01-2022,2031733
+High income,18-01-2022,172466620
+Middle Class Income,18-01-2022,90106891
+Lower middle income,18-01-2022,70870706
+Low income,18-01-2022,2026796
+High income,17-01-2022,169696211
+Middle Class Income,17-01-2022,89549285
+Lower middle income,17-01-2022,70440419
+Low income,17-01-2022,2020948
+High income,16-01-2022,167740194
+Middle Class Income,16-01-2022,89078404
+Lower middle income,16-01-2022,70098131
+Low income,16-01-2022,2013666
+High income,15-01-2022,166323617
+Middle Class Income,15-01-2022,88712436
+Lower middle income,15-01-2022,69714309
+Low income,15-01-2022,2009377
+High income,14-01-2022,164804220
+Middle Class Income,14-01-2022,88205578
+Lower middle income,14-01-2022,69321311
+Low income,14-01-2022,2001576
+High income,13-01-2022,162430383
+Middle Class Income,13-01-2022,87676519
+Lower middle income,13-01-2022,68916738
+Low income,13-01-2022,1992845
+High income,12-01-2022,160164703
+Middle Class Income,12-01-2022,87139653
+Lower middle income,12-01-2022,68544506
+Low income,12-01-2022,1982255
+High income,11-01-2022,157639929
+Middle Class Income,11-01-2022,86604976
+Lower middle income,11-01-2022,68168143
+Low income,11-01-2022,1971553
+High income,10-01-2022,155398098
+Middle Class Income,10-01-2022,86130233
+Lower middle income,10-01-2022,67868795
+Low income,10-01-2022,1958843
+High income,09-01-2022,152737836
+Middle Class Income,09-01-2022,85808890
+Lower middle income,09-01-2022,67609622
+Low income,09-01-2022,1948170
+High income,08-01-2022,151314578
+Middle Class Income,08-01-2022,85505397
+Lower middle income,08-01-2022,67339166
+Low income,08-01-2022,1940921
+High income,07-01-2022,149834455
+Middle Class Income,07-01-2022,85128301
+Lower middle income,07-01-2022,67075906
+Low income,07-01-2022,1926611
+High income,06-01-2022,147527408
+Middle Class Income,06-01-2022,84735302
+Lower middle income,06-01-2022,66837288
+Low income,06-01-2022,1912152
+High income,05-01-2022,145458498
+Middle Class Income,05-01-2022,84367757
+Lower middle income,05-01-2022,66625295
+Low income,05-01-2022,1893390
+High income,04-01-2022,143376333
+Middle Class Income,04-01-2022,84053792
+Lower middle income,04-01-2022,66457523
+Low income,04-01-2022,1873788
+High income,03-01-2022,141174973
+Middle Class Income,03-01-2022,83791665
+Lower middle income,03-01-2022,66338433
+Low income,03-01-2022,1844420
+High income,02-01-2022,139103588
+Middle Class Income,02-01-2022,83623703
+Lower middle income,02-01-2022,66247723
+Low income,02-01-2022,1836321
+High income,01-01-2022,138392056
+Middle Class Income,01-01-2022,83509209
+Lower middle income,01-01-2022,66165252
+Low income,01-01-2022,1826847
+High income,31-12-2021,137419511
+Middle Class Income,31-12-2021,83368565
+Lower middle income,31-12-2021,66091334
+Low income,31-12-2021,1811644
+High income,30-12-2021,136019641
+Middle Class Income,30-12-2021,83171921
+Lower middle income,30-12-2021,66006150
+Low income,30-12-2021,1791259
+High income,29-12-2021,134364184
+Middle Class Income,29-12-2021,82978263
+Lower middle income,29-12-2021,65927492
+Low income,29-12-2021,1770345
+High income,28-12-2021,132909546
+Middle Class Income,28-12-2021,82815990
+Lower middle income,28-12-2021,65862579
+Low income,28-12-2021,1747716
+High income,27-12-2021,131782761
+Middle Class Income,27-12-2021,82678064
+Lower middle income,27-12-2021,65808936
+Low income,27-12-2021,1730218
+High income,26-12-2021,130604675
+Middle Class Income,26-12-2021,82568259
+Lower middle income,26-12-2021,65767331
+Low income,26-12-2021,1718187
+High income,25-12-2021,130160493
+Middle Class Income,25-12-2021,82485927
+Lower middle income,25-12-2021,65726204
+Low income,25-12-2021,1710374
+High income,24-12-2021,129640779
+Middle Class Income,24-12-2021,82384462
+Lower middle income,24-12-2021,65680521
+Low income,24-12-2021,1695688
+High income,23-12-2021,128974216
+Middle Class Income,23-12-2021,82266537
+Lower middle income,23-12-2021,65623965
+Low income,23-12-2021,1681081
+High income,22-12-2021,128148843
+Middle Class Income,22-12-2021,82149531
+Lower middle income,22-12-2021,65571668
+Low income,22-12-2021,1664276
+High income,21-12-2021,127411834
+Middle Class Income,21-12-2021,82039324
+Lower middle income,21-12-2021,65515641
+Low income,21-12-2021,1653194
+High income,20-12-2021,126817150
+Middle Class Income,20-12-2021,81937140
+Lower middle income,20-12-2021,65463535
+Low income,20-12-2021,1643865
+High income,19-12-2021,126146652
+Middle Class Income,19-12-2021,81846653
+Lower middle income,19-12-2021,65422964
+Low income,19-12-2021,1635517
+High income,18-12-2021,125806344
+Middle Class Income,18-12-2021,81755502
+Lower middle income,18-12-2021,65374296
+Low income,18-12-2021,1630938
+High income,17-12-2021,125426393
+Middle Class Income,17-12-2021,81657165
+Lower middle income,17-12-2021,65327475
+Low income,17-12-2021,1626461
+High income,16-12-2021,124819537
+Middle Class Income,16-12-2021,81551548
+Lower middle income,16-12-2021,65278462
+Low income,16-12-2021,1620522
+High income,15-12-2021,124268979
+Middle Class Income,15-12-2021,81436601
+Lower middle income,15-12-2021,65205575
+Low income,15-12-2021,1615080
+High income,14-12-2021,123712369
+Middle Class Income,14-12-2021,81313430
+Lower middle income,14-12-2021,65150319
+Low income,14-12-2021,1610024
+High income,13-12-2021,123248220
+Middle Class Income,13-12-2021,81197075
+Lower middle income,13-12-2021,65097282
+Low income,13-12-2021,1607159
+High income,12-12-2021,122682751
+Middle Class Income,12-12-2021,81105586
+Lower middle income,12-12-2021,65061772
+Low income,12-12-2021,1605775
+High income,11-12-2021,122419635
+Middle Class Income,11-12-2021,80987537
+Lower middle income,11-12-2021,65017510
+Low income,11-12-2021,1604877
+High income,10-12-2021,122117460
+Middle Class Income,10-12-2021,80883224
+Lower middle income,10-12-2021,64959521
+Low income,10-12-2021,1602746
+High income,09-12-2021,121590584
+Middle Class Income,09-12-2021,80770133
+Lower middle income,09-12-2021,64908368
+Low income,09-12-2021,1600556
+High income,08-12-2021,121077246
+Middle Class Income,08-12-2021,80643010
+Lower middle income,08-12-2021,64851906
+Low income,08-12-2021,1599488
+High income,07-12-2021,120543748
+Middle Class Income,07-12-2021,80523516
+Lower middle income,07-12-2021,64794859
+Low income,07-12-2021,1598395
+High income,06-12-2021,120072810
+Middle Class Income,06-12-2021,80405600
+Lower middle income,06-12-2021,64746149
+Low income,06-12-2021,1597009
+High income,05-12-2021,119512529
+Middle Class Income,05-12-2021,80303024
+Lower middle income,05-12-2021,64707252
+Low income,05-12-2021,1595135
+High income,04-12-2021,119247732
+Middle Class Income,04-12-2021,80200646
+Lower middle income,04-12-2021,64655483
+Low income,04-12-2021,1594664
+High income,03-12-2021,118933894
+Middle Class Income,03-12-2021,80084317
+Lower middle income,03-12-2021,64614599
+Low income,03-12-2021,1593640
+High income,02-12-2021,118381318
+Middle Class Income,02-12-2021,79961618
+Lower middle income,02-12-2021,64560695
+Low income,02-12-2021,1592331
+High income,01-12-2021,117847285
+Middle Class Income,01-12-2021,79842495
+Lower middle income,01-12-2021,64507462
+Low income,01-12-2021,1591475
+High income,30-11-2021,117324735
+Middle Class Income,30-11-2021,79718260
+Lower middle income,30-11-2021,64452993
+Low income,30-11-2021,1590672
+High income,29-11-2021,116887145
+Middle Class Income,29-11-2021,79606274
+Lower middle income,29-11-2021,64403588
+Low income,29-11-2021,1589585
+High income,28-11-2021,116288460
+Middle Class Income,28-11-2021,79504170
+Lower middle income,28-11-2021,64363918
+Low income,28-11-2021,1587935
+High income,27-11-2021,116040191
+Middle Class Income,27-11-2021,79407115
+Lower middle income,27-11-2021,64320111
+Low income,27-11-2021,1587508
+High income,26-11-2021,115781144
+Middle Class Income,26-11-2021,79301813
+Lower middle income,26-11-2021,64266479
+Low income,26-11-2021,1586974
+High income,25-11-2021,115342788
+Middle Class Income,25-11-2021,79182552
+Lower middle income,25-11-2021,64211338
+Low income,25-11-2021,1586382
+High income,24-11-2021,114932705
+Middle Class Income,24-11-2021,79054765
+Lower middle income,24-11-2021,64152638
+Low income,24-11-2021,1585629
+High income,23-11-2021,114452517
+Middle Class Income,23-11-2021,78931876
+Lower middle income,23-11-2021,64099071
+Low income,23-11-2021,1584983
+High income,22-11-2021,114079138
+Middle Class Income,22-11-2021,78793960
+Lower middle income,22-11-2021,64019366
+Low income,22-11-2021,1583790
+High income,21-11-2021,113521560
+Middle Class Income,21-11-2021,78688303
+Lower middle income,21-11-2021,63978891
+Low income,21-11-2021,1582933
+High income,20-11-2021,113291431
+Middle Class Income,20-11-2021,78584689
+Lower middle income,20-11-2021,63933616
+Low income,20-11-2021,1582454
+High income,19-11-2021,113025412
+Middle Class Income,19-11-2021,78467764
+Lower middle income,19-11-2021,63879289
+Low income,19-11-2021,1581970
+High income,18-11-2021,112589516
+Middle Class Income,18-11-2021,78349362
+Lower middle income,18-11-2021,63820039
+Low income,18-11-2021,1581129
+High income,17-11-2021,112156594
+Middle Class Income,17-11-2021,78223846
+Lower middle income,17-11-2021,63757802
+Low income,17-11-2021,1580387
+High income,16-11-2021,111730515
+Middle Class Income,16-11-2021,78096906
+Lower middle income,16-11-2021,63696368
+Low income,16-11-2021,1579685
+High income,15-11-2021,111393496
+Middle Class Income,15-11-2021,77983591
+Lower middle income,15-11-2021,63640937
+Low income,15-11-2021,1578800
+High income,14-11-2021,110950826
+Middle Class Income,14-11-2021,77873888
+Lower middle income,14-11-2021,63592718
+Low income,14-11-2021,1577929
+High income,13-11-2021,110760264
+Middle Class Income,13-11-2021,77769542
+Lower middle income,13-11-2021,63540112
+Low income,13-11-2021,1577405
+High income,12-11-2021,110542988
+Middle Class Income,12-11-2021,77652354
+Lower middle income,12-11-2021,63480012
+Low income,12-11-2021,1576503
+High income,11-11-2021,110142018
+Middle Class Income,11-11-2021,77521418
+Lower middle income,11-11-2021,63413037
+Low income,11-11-2021,1575793
+High income,10-11-2021,109829972
+Middle Class Income,10-11-2021,77383260
+Lower middle income,10-11-2021,63343828
+Low income,10-11-2021,1574653
+High income,09-11-2021,109466081
+Middle Class Income,09-11-2021,77248274
+Lower middle income,09-11-2021,63270098
+Low income,09-11-2021,1573820
+High income,08-11-2021,109194812
+Middle Class Income,08-11-2021,77111607
+Lower middle income,08-11-2021,63210285
+Low income,08-11-2021,1572349
+High income,07-11-2021,108844845
+Middle Class Income,07-11-2021,76990293
+Lower middle income,07-11-2021,63158034
+Low income,07-11-2021,1570951
+High income,06-11-2021,108674668
+Middle Class Income,06-11-2021,76877045
+Lower middle income,06-11-2021,63101239
+Low income,06-11-2021,1570596
+High income,05-11-2021,108471285
+Middle Class Income,05-11-2021,76742431
+Lower middle income,05-11-2021,63034236
+Low income,05-11-2021,1570024
+High income,04-11-2021,108163935
+Middle Class Income,04-11-2021,76597365
+Lower middle income,04-11-2021,62963807
+Low income,04-11-2021,1568656
+High income,03-11-2021,107863792
+Middle Class Income,03-11-2021,76454850
+Lower middle income,03-11-2021,62889762
+Low income,03-11-2021,1568022
+High income,02-11-2021,107559274
+Middle Class Income,02-11-2021,76309753
+Lower middle income,02-11-2021,62815788
+Low income,02-11-2021,1566880
+High income,01-11-2021,107347163
+Middle Class Income,01-11-2021,76181888
+Lower middle income,01-11-2021,62752490
+Low income,01-11-2021,1565875
+High income,31-10-2021,107066359
+Middle Class Income,31-10-2021,76059761
+Lower middle income,31-10-2021,62699055
+Low income,31-10-2021,1564665
+High income,30-10-2021,106913798
+Middle Class Income,30-10-2021,75944809
+Lower middle income,30-10-2021,62618320
+Low income,30-10-2021,1564180
+High income,29-10-2021,106735945
+Middle Class Income,29-10-2021,75818181
+Lower middle income,29-10-2021,62549351
+Low income,29-10-2021,1563246
+High income,28-10-2021,106457816
+Middle Class Income,28-10-2021,75681382
+Lower middle income,28-10-2021,62471254
+Low income,28-10-2021,1562153
+High income,27-10-2021,106200213
+Middle Class Income,27-10-2021,75532768
+Lower middle income,27-10-2021,62395540
+Low income,27-10-2021,1561196
+High income,26-10-2021,105909297
+Middle Class Income,26-10-2021,75388243
+Lower middle income,26-10-2021,62318124
+Low income,26-10-2021,1560054
+High income,25-10-2021,105687355
+Middle Class Income,25-10-2021,75251748
+Lower middle income,25-10-2021,62251340
+Low income,25-10-2021,1559006
+High income,24-10-2021,105418150
+Middle Class Income,24-10-2021,75126379
+Lower middle income,24-10-2021,62195476
+Low income,24-10-2021,1557093
+High income,23-10-2021,105288461
+Middle Class Income,23-10-2021,75014137
+Lower middle income,23-10-2021,62128983
+Low income,23-10-2021,1556387
+High income,22-10-2021,105122927
+Middle Class Income,22-10-2021,74882125
+Lower middle income,22-10-2021,62057565
+Low income,22-10-2021,1555212
+High income,21-10-2021,104858585
+Middle Class Income,21-10-2021,74734855
+Lower middle income,21-10-2021,61977763
+Low income,21-10-2021,1553864
+High income,20-10-2021,104614767
+Middle Class Income,20-10-2021,74593069
+Lower middle income,20-10-2021,61902905
+Low income,20-10-2021,1552398
+High income,19-10-2021,104358439
+Middle Class Income,19-10-2021,74449660
+Lower middle income,19-10-2021,61827877
+Low income,19-10-2021,1550891
+High income,18-10-2021,104140063
+Middle Class Income,18-10-2021,74308968
+Lower middle income,18-10-2021,61756568
+Low income,18-10-2021,1549798
+High income,17-10-2021,103901533
+Middle Class Income,17-10-2021,74179899
+Lower middle income,17-10-2021,61697924
+Low income,17-10-2021,1548315
+High income,16-10-2021,103769586
+Middle Class Income,16-10-2021,74061629
+Lower middle income,16-10-2021,61636095
+Low income,16-10-2021,1547143
+High income,15-10-2021,103618494
+Middle Class Income,15-10-2021,73934683
+Lower middle income,15-10-2021,61574050
+Low income,15-10-2021,1545975
+High income,14-10-2021,103374774
+Middle Class Income,14-10-2021,73794057
+Lower middle income,14-10-2021,61501931
+Low income,14-10-2021,1544440
+High income,13-10-2021,103151872
+Middle Class Income,13-10-2021,73647112
+Lower middle income,13-10-2021,61420324
+Low income,13-10-2021,1542636
+High income,12-10-2021,102916323
+Middle Class Income,12-10-2021,73511400
+Lower middle income,12-10-2021,61337237
+Low income,12-10-2021,1540591
+High income,11-10-2021,102685435
+Middle Class Income,11-10-2021,73380017
+Lower middle income,11-10-2021,61263105
+Low income,11-10-2021,1538906
+High income,10-10-2021,102480774
+Middle Class Income,10-10-2021,73262630
+Lower middle income,10-10-2021,61198706
+Low income,10-10-2021,1537451
+High income,09-10-2021,102358724
+Middle Class Income,09-10-2021,73142210
+Lower middle income,09-10-2021,61126266
+Low income,09-10-2021,1535990
+High income,08-10-2021,102219658
+Middle Class Income,08-10-2021,73017151
+Lower middle income,08-10-2021,61051640
+Low income,08-10-2021,1534640
+High income,07-10-2021,101972835
+Middle Class Income,07-10-2021,72874026
+Lower middle income,07-10-2021,60968160
+Low income,07-10-2021,1532662
+High income,06-10-2021,101747683
+Middle Class Income,06-10-2021,72723071
+Lower middle income,06-10-2021,60884694
+Low income,06-10-2021,1530569
+High income,05-10-2021,101506926
+Middle Class Income,05-10-2021,72579245
+Lower middle income,05-10-2021,60765512
+Low income,05-10-2021,1527232
+High income,04-10-2021,101306749
+Middle Class Income,04-10-2021,72437770
+Lower middle income,04-10-2021,60686805
+Low income,04-10-2021,1524863
+High income,03-10-2021,101055849
+Middle Class Income,03-10-2021,72313459
+Lower middle income,03-10-2021,60616417
+Low income,03-10-2021,1523424
+High income,02-10-2021,100937615
+Middle Class Income,02-10-2021,72200478
+Lower middle income,02-10-2021,60540515
+Low income,02-10-2021,1521538
+High income,01-10-2021,100804150
+Middle Class Income,01-10-2021,72070990
+Lower middle income,01-10-2021,60454767
+Low income,01-10-2021,1519675
+High income,30-09-2021,100537965
+Middle Class Income,30-09-2021,71924383
+Lower middle income,30-09-2021,60348159
+Low income,30-09-2021,1517069
+High income,29-09-2021,100310346
+Middle Class Income,29-09-2021,71767745
+Lower middle income,29-09-2021,60245244
+Low income,29-09-2021,1514445
+High income,28-09-2021,100073572
+Middle Class Income,28-09-2021,71619428
+Lower middle income,28-09-2021,60141504
+Low income,28-09-2021,1512245
+High income,27-09-2021,99855099
+Middle Class Income,27-09-2021,71473619
+Lower middle income,27-09-2021,60057818
+Low income,27-09-2021,1509359
+High income,26-09-2021,99587104
+Middle Class Income,26-09-2021,71347687
+Lower middle income,26-09-2021,59971051
+Low income,26-09-2021,1507322
+High income,25-09-2021,99455935
+Middle Class Income,25-09-2021,71219702
+Lower middle income,25-09-2021,59876228
+Low income,25-09-2021,1505546
+High income,24-09-2021,99312105
+Middle Class Income,24-09-2021,71092390
+Lower middle income,24-09-2021,59775733
+Low income,24-09-2021,1503290
+High income,23-09-2021,99031314
+Middle Class Income,23-09-2021,70938301
+Lower middle income,23-09-2021,59664371
+Low income,23-09-2021,1500263
+High income,22-09-2021,98787674
+Middle Class Income,22-09-2021,70773344
+Lower middle income,22-09-2021,59528468
+Low income,22-09-2021,1497213
+High income,21-09-2021,98545474
+Middle Class Income,21-09-2021,70601866
+Lower middle income,21-09-2021,59411851
+Low income,21-09-2021,1492479
+High income,20-09-2021,98323789
+Middle Class Income,20-09-2021,70446360
+Lower middle income,20-09-2021,59303298
+Low income,20-09-2021,1489636
+High income,19-09-2021,98039701
+Middle Class Income,19-09-2021,70303818
+Lower middle income,19-09-2021,59201862
+Low income,19-09-2021,1487504
+High income,18-09-2021,97918895
+Middle Class Income,18-09-2021,70166867
+Lower middle income,18-09-2021,59097982
+Low income,18-09-2021,1485795
+High income,17-09-2021,97755702
+Middle Class Income,17-09-2021,69921713
+Lower middle income,17-09-2021,58985222
+Low income,17-09-2021,1483141
+High income,16-09-2021,97436247
+Middle Class Income,16-09-2021,69747175
+Lower middle income,16-09-2021,58859452
+Low income,16-09-2021,1479650
+High income,15-09-2021,97158617
+Middle Class Income,15-09-2021,69559905
+Lower middle income,15-09-2021,58740045
+Low income,15-09-2021,1476685
+High income,14-09-2021,96879854
+Middle Class Income,14-09-2021,69395416
+Lower middle income,14-09-2021,58619747
+Low income,14-09-2021,1473221
+High income,13-09-2021,96621883
+Middle Class Income,13-09-2021,69230321
+Lower middle income,13-09-2021,58496287
+Low income,13-09-2021,1470028
+High income,12-09-2021,96291506
+Middle Class Income,12-09-2021,69095830
+Lower middle income,12-09-2021,58385483
+Low income,12-09-2021,1467798
+High income,11-09-2021,96160460
+Middle Class Income,11-09-2021,68969634
+Lower middle income,11-09-2021,58273216
+Low income,11-09-2021,1465997
+High income,10-09-2021,95980281
+Middle Class Income,10-09-2021,68803175
+Lower middle income,10-09-2021,58153455
+Low income,10-09-2021,1464062
+High income,09-09-2021,95612280
+Middle Class Income,09-09-2021,68642275
+Lower middle income,09-09-2021,58027983
+Low income,09-09-2021,1459642
+High income,08-09-2021,95308083
+Middle Class Income,08-09-2021,68456920
+Lower middle income,08-09-2021,57881013
+Low income,08-09-2021,1456105
+High income,07-09-2021,94986525
+Middle Class Income,07-09-2021,68288424
+Lower middle income,07-09-2021,57736369
+Low income,07-09-2021,1453030
+High income,06-09-2021,94642581
+Middle Class Income,06-09-2021,68122953
+Lower middle income,06-09-2021,57592994
+Low income,06-09-2021,1449432
+High income,05-09-2021,94436059
+Middle Class Income,05-09-2021,67983714
+Lower middle income,05-09-2021,57463531
+Low income,05-09-2021,1447004
+High income,04-09-2021,94277591
+Middle Class Income,04-09-2021,67840271
+Lower middle income,04-09-2021,57321418
+Low income,04-09-2021,1444182
+High income,03-09-2021,94084025
+Middle Class Income,03-09-2021,67675834
+Lower middle income,03-09-2021,57185696
+Low income,03-09-2021,1441361
+High income,02-09-2021,93704814
+Middle Class Income,02-09-2021,67491880
+Lower middle income,02-09-2021,57029014
+Low income,02-09-2021,1437564
+High income,01-09-2021,93376550
+Middle Class Income,01-09-2021,67294632
+Lower middle income,01-09-2021,56881546
+Low income,01-09-2021,1433981
+High income,31-08-2021,93015883
+Middle Class Income,31-08-2021,67104324
+Lower middle income,31-08-2021,56717428
+Low income,31-08-2021,1429819
+High income,30-08-2021,92724575
+Middle Class Income,30-08-2021,66924984
+Lower middle income,30-08-2021,56570563
+Low income,30-08-2021,1426832
+High income,29-08-2021,92358455
+Middle Class Income,29-08-2021,66771936
+Lower middle income,29-08-2021,56420755
+Low income,29-08-2021,1424002
+High income,28-08-2021,92205786
+Middle Class Income,28-08-2021,66628599
+Lower middle income,28-08-2021,56272843
+Low income,28-08-2021,1421189
+High income,27-08-2021,91990357
+Middle Class Income,27-08-2021,66445388
+Lower middle income,27-08-2021,56118455
+Low income,27-08-2021,1417057
+High income,26-08-2021,91616555
+Middle Class Income,26-08-2021,66245651
+Lower middle income,26-08-2021,55945347
+Low income,26-08-2021,1412612
+High income,25-08-2021,91275304
+Middle Class Income,25-08-2021,66028457
+Lower middle income,25-08-2021,55771760
+Low income,25-08-2021,1408300
+High income,24-08-2021,90938142
+Middle Class Income,24-08-2021,65814371
+Lower middle income,24-08-2021,55590504
+Low income,24-08-2021,1403398
+High income,23-08-2021,90634284
+Middle Class Income,23-08-2021,65607683
+Lower middle income,23-08-2021,55428221
+Low income,23-08-2021,1399545
+High income,22-08-2021,90279514
+Middle Class Income,22-08-2021,65442542
+Lower middle income,22-08-2021,55287903
+Low income,22-08-2021,1375721
+High income,21-08-2021,90130347
+Middle Class Income,21-08-2021,65284137
+Lower middle income,21-08-2021,55150570
+Low income,21-08-2021,1372645
+High income,20-08-2021,89916090
+Middle Class Income,20-08-2021,65084237
+Lower middle income,20-08-2021,55008928
+Low income,20-08-2021,1369539
+High income,19-08-2021,89520438
+Middle Class Income,19-08-2021,64860680
+Lower middle income,19-08-2021,54847137
+Low income,19-08-2021,1365236
+High income,18-08-2021,89206422
+Middle Class Income,18-08-2021,64625375
+Lower middle income,18-08-2021,54688324
+Low income,18-08-2021,1361816
+High income,17-08-2021,88882956
+Middle Class Income,17-08-2021,64385706
+Lower middle income,17-08-2021,54520090
+Low income,17-08-2021,1357509
+High income,16-08-2021,88594591
+Middle Class Income,16-08-2021,64170195
+Lower middle income,16-08-2021,54345452
+Low income,16-08-2021,1353492
+High income,15-08-2021,88259977
+Middle Class Income,15-08-2021,63988474
+Lower middle income,15-08-2021,54200427
+Low income,15-08-2021,1350555
+High income,14-08-2021,88115748
+Middle Class Income,14-08-2021,63821937
+Lower middle income,14-08-2021,54047864
+Low income,14-08-2021,1347297
+High income,13-08-2021,87930860
+Middle Class Income,13-08-2021,63619993
+Lower middle income,13-08-2021,53885396
+Low income,13-08-2021,1343811
+High income,12-08-2021,87553091
+Middle Class Income,12-08-2021,63386345
+Lower middle income,12-08-2021,53699461
+Low income,12-08-2021,1339280
+High income,11-08-2021,87257715
+Middle Class Income,11-08-2021,63151213
+Lower middle income,11-08-2021,53528803
+Low income,11-08-2021,1334819
+High income,10-08-2021,86955257
+Middle Class Income,10-08-2021,62925595
+Lower middle income,10-08-2021,53331490
+Low income,10-08-2021,1329481
+High income,09-08-2021,86715125
+Middle Class Income,09-08-2021,62708465
+Lower middle income,09-08-2021,53152497
+Low income,09-08-2021,1320150
+High income,08-08-2021,86426209
+Middle Class Income,08-08-2021,62532721
+Lower middle income,08-08-2021,53001808
+Low income,08-08-2021,1316445
+High income,07-08-2021,86299271
+Middle Class Income,07-08-2021,62364538
+Lower middle income,07-08-2021,52832673
+Low income,07-08-2021,1313067
+High income,06-08-2021,86131112
+Middle Class Income,06-08-2021,62143975
+Lower middle income,06-08-2021,52665480
+Low income,06-08-2021,1307826
+High income,05-08-2021,85739474
+Middle Class Income,05-08-2021,61905841
+Lower middle income,05-08-2021,52481844
+Low income,05-08-2021,1301857
+High income,04-08-2021,85492437
+Middle Class Income,04-08-2021,61663179
+Lower middle income,04-08-2021,52291636
+Low income,04-08-2021,1296256
+High income,03-08-2021,85253002
+Middle Class Income,03-08-2021,61424369
+Lower middle income,03-08-2021,52094535
+Low income,03-08-2021,1291120
+High income,02-08-2021,85038244
+Middle Class Income,02-08-2021,61203876
+Lower middle income,02-08-2021,51901657
+Low income,02-08-2021,1285139
+High income,01-08-2021,84799862
+Middle Class Income,01-08-2021,61024929
+Lower middle income,01-08-2021,51752589
+Low income,01-08-2021,1280478
+High income,31-07-2021,84673314
+Middle Class Income,31-07-2021,60843604
+Lower middle income,31-07-2021,51581566
+Low income,31-07-2021,1276421
+High income,30-07-2021,84532137
+Middle Class Income,30-07-2021,60639112
+Lower middle income,30-07-2021,51416274
+Low income,30-07-2021,1270229
+High income,29-07-2021,84213620
+Middle Class Income,29-07-2021,60415096
+Lower middle income,29-07-2021,51233706
+Low income,29-07-2021,1263067
+High income,28-07-2021,84007982
+Middle Class Income,28-07-2021,60182969
+Lower middle income,28-07-2021,51034862
+Low income,28-07-2021,1256929
+High income,27-07-2021,83802307
+Middle Class Income,27-07-2021,59942997
+Lower middle income,27-07-2021,50837220
+Low income,27-07-2021,1250282
+High income,26-07-2021,83615565
+Middle Class Income,26-07-2021,59724997
+Lower middle income,26-07-2021,50641528
+Low income,26-07-2021,1244572
+High income,25-07-2021,83402907
+Middle Class Income,25-07-2021,59554919
+Lower middle income,25-07-2021,50490810
+Low income,25-07-2021,1237545
+High income,24-07-2021,83293242
+Middle Class Income,24-07-2021,59384519
+Lower middle income,24-07-2021,50329926
+Low income,24-07-2021,1233058
+High income,23-07-2021,83169813
+Middle Class Income,23-07-2021,59246032
+Lower middle income,23-07-2021,50165071
+Low income,23-07-2021,1228145
+High income,22-07-2021,82921098
+Middle Class Income,22-07-2021,58931880
+Lower middle income,22-07-2021,50005534
+Low income,22-07-2021,1222618
+High income,21-07-2021,82725905
+Middle Class Income,21-07-2021,58719895
+Lower middle income,21-07-2021,49854733
+Low income,21-07-2021,1215672
+High income,20-07-2021,82539248
+Middle Class Income,20-07-2021,58512583
+Lower middle income,20-07-2021,49698296
+Low income,20-07-2021,1210259
+High income,19-07-2021,82365695
+Middle Class Income,19-07-2021,58325919
+Lower middle income,19-07-2021,49532662
+Low income,19-07-2021,1203981
+High income,18-07-2021,82172840
+Middle Class Income,18-07-2021,58176900
+Lower middle income,18-07-2021,49390608
+Low income,18-07-2021,1198664
+High income,17-07-2021,82058737
+Middle Class Income,17-07-2021,58034918
+Lower middle income,17-07-2021,49234465
+Low income,17-07-2021,1191132
+High income,16-07-2021,81939547
+Middle Class Income,16-07-2021,57836170
+Lower middle income,16-07-2021,49071937
+Low income,16-07-2021,1182972
+High income,15-07-2021,81724203
+Middle Class Income,15-07-2021,57634690
+Lower middle income,15-07-2021,48899707
+Low income,15-07-2021,1176374
+High income,14-07-2021,81559400
+Middle Class Income,14-07-2021,57408212
+Lower middle income,14-07-2021,48721966
+Low income,14-07-2021,1169178
+High income,13-07-2021,81413160
+Middle Class Income,13-07-2021,57200174
+Lower middle income,13-07-2021,48545615
+Low income,13-07-2021,1162030
+High income,12-07-2021,81258944
+Middle Class Income,12-07-2021,56997377
+Lower middle income,12-07-2021,48384163
+Low income,12-07-2021,1154993
+High income,11-07-2021,81124496
+Middle Class Income,11-07-2021,56845543
+Lower middle income,11-07-2021,48242215
+Low income,11-07-2021,1149196
+High income,10-07-2021,81045047
+Middle Class Income,10-07-2021,56697656
+Lower middle income,10-07-2021,48104406
+Low income,10-07-2021,1144615
+High income,09-07-2021,80965057
+Middle Class Income,09-07-2021,56503206
+Lower middle income,09-07-2021,47965816
+Low income,09-07-2021,1136732
+High income,08-07-2021,80818356
+Middle Class Income,08-07-2021,56292923
+Lower middle income,08-07-2021,47816961
+Low income,08-07-2021,1129464
+High income,07-07-2021,80706783
+Middle Class Income,07-07-2021,56085330
+Lower middle income,07-07-2021,47661449
+Low income,07-07-2021,1122381
+High income,06-07-2021,80599405
+Middle Class Income,06-07-2021,55881258
+Lower middle income,06-07-2021,47513778
+Low income,06-07-2021,1116326
+High income,05-07-2021,80501510
+Middle Class Income,05-07-2021,55673338
+Lower middle income,05-07-2021,47376451
+Low income,05-07-2021,1109018
+High income,04-07-2021,80406734
+Middle Class Income,04-07-2021,55514002
+Lower middle income,04-07-2021,47258105
+Low income,04-07-2021,1103610
+High income,03-07-2021,80351516
+Middle Class Income,03-07-2021,55366647
+Lower middle income,03-07-2021,47139286
+Low income,03-07-2021,1097347
+High income,02-07-2021,80296076
+Middle Class Income,02-07-2021,55174535
+Lower middle income,02-07-2021,47019988
+Low income,02-07-2021,1090457
+High income,01-07-2021,80199732
+Middle Class Income,01-07-2021,54962987
+Lower middle income,01-07-2021,46894261
+Low income,01-07-2021,1081783
+High income,30-06-2021,80115315
+Middle Class Income,30-06-2021,54748026
+Lower middle income,30-06-2021,46766632
+Low income,30-06-2021,1073307
+High income,29-06-2021,80039479
+Middle Class Income,29-06-2021,54554755
+Lower middle income,29-06-2021,46643478
+Low income,29-06-2021,1066135
+High income,28-06-2021,79976085
+Middle Class Income,28-06-2021,54359056
+Lower middle income,28-06-2021,46527715
+Low income,28-06-2021,1059812
+High income,27-06-2021,79907487
+Middle Class Income,27-06-2021,54202419
+Lower middle income,27-06-2021,46425289
+Low income,27-06-2021,1054474
+High income,26-06-2021,79861759
+Middle Class Income,26-06-2021,54051152
+Lower middle income,26-06-2021,46317548
+Low income,26-06-2021,1048004
+High income,25-06-2021,79810165
+Middle Class Income,25-06-2021,53859246
+Lower middle income,25-06-2021,46205976
+Low income,25-06-2021,1040199
+High income,24-06-2021,79739006
+Middle Class Income,24-06-2021,53634712
+Lower middle income,24-06-2021,46092255
+Low income,24-06-2021,1031958
+High income,23-06-2021,79676465
+Middle Class Income,23-06-2021,53415382
+Lower middle income,23-06-2021,45973872
+Low income,23-06-2021,1022980
+High income,22-06-2021,79616072
+Middle Class Income,22-06-2021,53199503
+Lower middle income,22-06-2021,45862255
+Low income,22-06-2021,1014250
+High income,21-06-2021,79560055
+Middle Class Income,21-06-2021,52958851
+Lower middle income,21-06-2021,45756329
+Low income,21-06-2021,1006638
+High income,20-06-2021,79508672
+Middle Class Income,20-06-2021,52813851
+Lower middle income,20-06-2021,45662479
+Low income,20-06-2021,1000220
+High income,19-06-2021,79465352
+Middle Class Income,19-06-2021,52660351
+Lower middle income,19-06-2021,45560509
+Low income,19-06-2021,994254
+High income,18-06-2021,79419426
+Middle Class Income,18-06-2021,52475040
+Lower middle income,18-06-2021,45451181
+Low income,18-06-2021,987529
+High income,17-06-2021,79354100
+Middle Class Income,17-06-2021,52258935
+Lower middle income,17-06-2021,45337367
+Low income,17-06-2021,979273
+High income,16-06-2021,79295547
+Middle Class Income,16-06-2021,52047770
+Lower middle income,16-06-2021,45221038
+Low income,16-06-2021,969331
+High income,15-06-2021,79238820
+Middle Class Income,15-06-2021,51839314
+Lower middle income,15-06-2021,45102515
+Low income,15-06-2021,963876
+High income,14-06-2021,79185235
+Middle Class Income,14-06-2021,51634853
+Lower middle income,14-06-2021,44992672
+Low income,14-06-2021,957010
+High income,13-06-2021,79131220
+Middle Class Income,13-06-2021,51490013
+Lower middle income,13-06-2021,44887668
+Low income,13-06-2021,951579
+High income,12-06-2021,79085167
+Middle Class Income,12-06-2021,51353579
+Lower middle income,12-06-2021,44772568
+Low income,12-06-2021,946370
+High income,11-06-2021,79033514
+Middle Class Income,11-06-2021,51171912
+Lower middle income,11-06-2021,44643673
+Low income,11-06-2021,940212
+High income,10-06-2021,78954521
+Middle Class Income,10-06-2021,50965412
+Lower middle income,10-06-2021,44513770
+Low income,10-06-2021,933568
+High income,09-06-2021,78878182
+Middle Class Income,09-06-2021,50744499
+Lower middle income,09-06-2021,44364135
+Low income,09-06-2021,926958
+High income,08-06-2021,78804179
+Middle Class Income,08-06-2021,50544160
+Lower middle income,08-06-2021,44225693
+Low income,08-06-2021,921448
+High income,07-06-2021,78738277
+Middle Class Income,07-06-2021,50384138
+Lower middle income,07-06-2021,44085725
+Low income,07-06-2021,917234
+High income,06-06-2021,78677647
+Middle Class Income,06-06-2021,50248419
+Lower middle income,06-06-2021,43964427
+Low income,06-06-2021,913114
+High income,05-06-2021,78624382
+Middle Class Income,05-06-2021,50121188
+Lower middle income,05-06-2021,43825941
+Low income,05-06-2021,909117
+High income,04-06-2021,78557298
+Middle Class Income,04-06-2021,49952253
+Lower middle income,04-06-2021,43669281
+Low income,04-06-2021,905146
+High income,03-06-2021,78478574
+Middle Class Income,03-06-2021,49781108
+Lower middle income,03-06-2021,43499239
+Low income,03-06-2021,900142
+High income,02-06-2021,78380549
+Middle Class Income,02-06-2021,49584360
+Lower middle income,02-06-2021,43317448
+Low income,02-06-2021,896197
+High income,01-06-2021,78307169
+Middle Class Income,01-06-2021,49356542
+Lower middle income,01-06-2021,43134651
+Low income,01-06-2021,892570
+High income,31-05-2021,78228434
+Middle Class Income,31-05-2021,49156992
+Lower middle income,31-05-2021,42955802
+Low income,31-05-2021,889705
+High income,30-05-2021,78171390
+Middle Class Income,30-05-2021,49002545
+Lower middle income,30-05-2021,42782818
+Low income,30-05-2021,887127
+High income,29-05-2021,78109601
+Middle Class Income,29-05-2021,48871606
+Lower middle income,29-05-2021,42587770
+Low income,29-05-2021,884958
+High income,28-05-2021,78030105
+Middle Class Income,28-05-2021,48685398
+Lower middle income,28-05-2021,42375647
+Low income,28-05-2021,882361
+High income,27-05-2021,77932573
+Middle Class Income,27-05-2021,48508795
+Lower middle income,27-05-2021,42147368
+Low income,27-05-2021,879258
+High income,26-05-2021,77823415
+Middle Class Income,26-05-2021,48309834
+Lower middle income,26-05-2021,41910596
+Low income,26-05-2021,877263
+High income,25-05-2021,77724811
+Middle Class Income,25-05-2021,48103435
+Lower middle income,25-05-2021,41649210
+Low income,25-05-2021,875203
+High income,24-05-2021,77636383
+Middle Class Income,24-05-2021,47922818
+Lower middle income,24-05-2021,41386679
+Low income,24-05-2021,873382
+High income,23-05-2021,77560932
+Middle Class Income,23-05-2021,47788963
+Lower middle income,23-05-2021,41146361
+Low income,23-05-2021,871918
+High income,22-05-2021,77485309
+Middle Class Income,22-05-2021,47649875
+Lower middle income,22-05-2021,40880652
+Low income,22-05-2021,870721
+High income,21-05-2021,77390972
+Middle Class Income,21-05-2021,47465474
+Lower middle income,21-05-2021,40588580
+Low income,21-05-2021,869183
+High income,20-05-2021,77274889
+Middle Class Income,20-05-2021,47272451
+Lower middle income,20-05-2021,40273007
+Low income,20-05-2021,867378
+High income,19-05-2021,77509797
+Middle Class Income,19-05-2021,47073534
+Lower middle income,19-05-2021,39956496
+Low income,19-05-2021,865605
+High income,18-05-2021,77379239
+Middle Class Income,18-05-2021,46866365
+Lower middle income,18-05-2021,39623665
+Low income,18-05-2021,864093
+High income,17-05-2021,77266919
+Middle Class Income,17-05-2021,46679719
+Lower middle income,17-05-2021,39304485
+Low income,17-05-2021,862616
+High income,16-05-2021,77175126
+Middle Class Income,16-05-2021,46542481
+Lower middle income,16-05-2021,38991017
+Low income,16-05-2021,861576
+High income,15-05-2021,77083920
+Middle Class Income,15-05-2021,46415527
+Lower middle income,15-05-2021,38663550
+Low income,15-05-2021,860585
+High income,14-05-2021,76971839
+Middle Class Income,14-05-2021,46255949
+Lower middle income,14-05-2021,38304561
+Low income,14-05-2021,859638
+High income,13-05-2021,76832101
+Middle Class Income,13-05-2021,46062654
+Lower middle income,13-05-2021,37929439
+Low income,13-05-2021,858210
+High income,12-05-2021,76683548
+Middle Class Income,12-05-2021,45876012
+Lower middle income,12-05-2021,37531583
+Low income,12-05-2021,856579
+High income,11-05-2021,76530195
+Middle Class Income,11-05-2021,45684556
+Lower middle income,11-05-2021,37110657
+Low income,11-05-2021,854815
+High income,10-05-2021,76386082
+Middle Class Income,10-05-2021,45509842
+Lower middle income,10-05-2021,36705274
+Low income,10-05-2021,853242
+High income,09-05-2021,76272041
+Middle Class Income,09-05-2021,45387576
+Lower middle income,09-05-2021,36317514
+Low income,09-05-2021,851650
+High income,08-05-2021,76166380
+Middle Class Income,08-05-2021,45266029
+Lower middle income,08-05-2021,35896497
+Low income,08-05-2021,850472
+High income,07-05-2021,76021723
+Middle Class Income,07-05-2021,45090210
+Lower middle income,07-05-2021,35430380
+Low income,07-05-2021,848783
+High income,06-05-2021,75841665
+Middle Class Income,06-05-2021,44903687
+Lower middle income,06-05-2021,34964059
+Low income,06-05-2021,846851
+High income,05-05-2021,75652606
+Middle Class Income,05-05-2021,44711164
+Lower middle income,05-05-2021,34475428
+Low income,05-05-2021,844239
+High income,04-05-2021,75474846
+Middle Class Income,04-05-2021,44519605
+Lower middle income,04-05-2021,34004617
+Low income,04-05-2021,842354
+High income,03-05-2021,75315781
+Middle Class Income,03-05-2021,44331660
+Lower middle income,03-05-2021,33568640
+Low income,03-05-2021,840395
+High income,02-05-2021,75179592
+Middle Class Income,02-05-2021,44197051
+Lower middle income,02-05-2021,33150119
+Low income,02-05-2021,839258
+High income,01-05-2021,75053345
+Middle Class Income,01-05-2021,44064970
+Lower middle income,01-05-2021,32722395
+Low income,01-05-2021,838043
+High income,30-04-2021,74882039
+Middle Class Income,30-04-2021,43900244
+Lower middle income,30-04-2021,32265207
+Low income,30-04-2021,836366
+High income,29-04-2021,74676569
+Middle Class Income,29-04-2021,43689263
+Lower middle income,29-04-2021,31792400
+Low income,29-04-2021,834249
+High income,28-04-2021,74457037
+Middle Class Income,28-04-2021,43484206
+Lower middle income,28-04-2021,31326660
+Low income,28-04-2021,831904
+High income,27-04-2021,74240793
+Middle Class Income,27-04-2021,43255141
+Lower middle income,27-04-2021,30875609
+Low income,27-04-2021,829444
+High income,26-04-2021,74044109
+Middle Class Income,26-04-2021,43043309
+Lower middle income,26-04-2021,30447549
+Low income,26-04-2021,826941
+High income,25-04-2021,73894852
+Middle Class Income,25-04-2021,42890459
+Lower middle income,25-04-2021,30062684
+Low income,25-04-2021,824864
+High income,24-04-2021,73739249
+Middle Class Income,24-04-2021,42736431
+Lower middle income,24-04-2021,29646704
+Low income,24-04-2021,821995
+High income,23-04-2021,73538624
+Middle Class Income,23-04-2021,42535611
+Lower middle income,23-04-2021,29227081
+Low income,23-04-2021,818882
+High income,22-04-2021,73299088
+Middle Class Income,22-04-2021,42296406
+Lower middle income,22-04-2021,28801375
+Low income,22-04-2021,815647
+High income,21-04-2021,73043448
+Middle Class Income,21-04-2021,42073549
+Lower middle income,21-04-2021,28384096
+Low income,21-04-2021,812053
+High income,20-04-2021,72788520
+Middle Class Income,20-04-2021,41836301
+Lower middle income,20-04-2021,27990346
+Low income,20-04-2021,808717
+High income,19-04-2021,72566030
+Middle Class Income,19-04-2021,41590915
+Lower middle income,19-04-2021,27622121
+Low income,19-04-2021,805346
+High income,18-04-2021,72389375
+Middle Class Income,18-04-2021,41406203
+Lower middle income,18-04-2021,27295714
+Low income,18-04-2021,802153
+High income,17-04-2021,72208612
+Middle Class Income,17-04-2021,41233692
+Lower middle income,17-04-2021,26952324
+Low income,17-04-2021,798710
+High income,16-04-2021,71990341
+Middle Class Income,16-04-2021,41000301
+Lower middle income,16-04-2021,26613271
+Low income,16-04-2021,795473
+High income,15-04-2021,71716575
+Middle Class Income,15-04-2021,40736352
+Lower middle income,15-04-2021,26295378
+Low income,15-04-2021,791210
+High income,14-04-2021,71435914
+Middle Class Income,14-04-2021,40500684
+Lower middle income,14-04-2021,25994585
+Low income,14-04-2021,787111
+High income,13-04-2021,71158694
+Middle Class Income,13-04-2021,40253212
+Lower middle income,13-04-2021,25713431
+Low income,13-04-2021,781626
+High income,12-04-2021,70906467
+Middle Class Income,12-04-2021,40003900
+Lower middle income,12-04-2021,25454304
+Low income,12-04-2021,778496
+High income,11-04-2021,70710708
+Middle Class Income,11-04-2021,39821241
+Lower middle income,11-04-2021,25222300
+Low income,11-04-2021,775045
+High income,10-04-2021,70420779
+Middle Class Income,10-04-2021,39646348
+Lower middle income,10-04-2021,24980950
+Low income,10-04-2021,771613
+High income,09-04-2021,70202163
+Middle Class Income,09-04-2021,39429567
+Lower middle income,09-04-2021,24749372
+Low income,09-04-2021,767964
+High income,08-04-2021,69943091
+Middle Class Income,08-04-2021,39177866
+Lower middle income,08-04-2021,24516636
+Low income,08-04-2021,764155
+High income,07-04-2021,69593902
+Middle Class Income,07-04-2021,38917155
+Lower middle income,07-04-2021,24294693
+Low income,07-04-2021,759944
+High income,06-04-2021,69386605
+Middle Class Income,06-04-2021,38667790
+Lower middle income,06-04-2021,24092096
+Low income,06-04-2021,756054
+High income,05-04-2021,69193861
+Middle Class Income,05-04-2021,38442416
+Lower middle income,05-04-2021,23905970
+Low income,05-04-2021,752815
+High income,04-04-2021,69020639
+Middle Class Income,04-04-2021,38276363
+Lower middle income,04-04-2021,23751712
+Low income,04-04-2021,749332
+High income,03-04-2021,68782350
+Middle Class Income,03-04-2021,38129058
+Lower middle income,03-04-2021,23581101
+Low income,03-04-2021,745621
+High income,02-04-2021,68564034
+Middle Class Income,02-04-2021,37973954
+Lower middle income,02-04-2021,23417690
+Low income,02-04-2021,742116
+High income,01-04-2021,68284540
+Middle Class Income,01-04-2021,37779683
+Lower middle income,01-04-2021,23250825
+Low income,01-04-2021,737950
+High income,31-03-2021,67969933
+Middle Class Income,31-03-2021,37549775
+Lower middle income,31-03-2021,23090159
+Low income,31-03-2021,733319
+High income,30-03-2021,67661433
+Middle Class Income,30-03-2021,37320245
+Lower middle income,30-03-2021,22958431
+Low income,30-03-2021,729180
+High income,29-03-2021,67421465
+Middle Class Income,29-03-2021,37112323
+Lower middle income,29-03-2021,22847936
+Low income,29-03-2021,725373
+High income,28-03-2021,67224055
+Middle Class Income,28-03-2021,36961279
+Lower middle income,28-03-2021,22740525
+Low income,28-03-2021,721940
+High income,27-03-2021,67002001
+Middle Class Income,27-03-2021,36815675
+Lower middle income,27-03-2021,22619187
+Low income,27-03-2021,718291
+High income,26-03-2021,66737168
+Middle Class Income,26-03-2021,36621265
+Lower middle income,26-03-2021,22497299
+Low income,26-03-2021,714903
+High income,25-03-2021,66432411
+Middle Class Income,25-03-2021,36421896
+Lower middle income,25-03-2021,22365106
+Low income,25-03-2021,711196
+High income,24-03-2021,66128067
+Middle Class Income,24-03-2021,36197479
+Lower middle income,24-03-2021,22245954
+Low income,24-03-2021,706929
+High income,23-03-2021,65814050
+Middle Class Income,23-03-2021,35994145
+Lower middle income,23-03-2021,22137240
+Low income,23-03-2021,703297
+High income,22-03-2021,65608494
+Middle Class Income,22-03-2021,35794507
+Lower middle income,22-03-2021,22039745
+Low income,22-03-2021,700122
+High income,21-03-2021,65418237
+Middle Class Income,21-03-2021,35651759
+Lower middle income,21-03-2021,21954376
+Low income,21-03-2021,697313
+High income,20-03-2021,65214704
+Middle Class Income,20-03-2021,35512212
+Lower middle income,20-03-2021,21860578
+Low income,20-03-2021,693738
+High income,19-03-2021,64976655
+Middle Class Income,19-03-2021,35351709
+Lower middle income,19-03-2021,21764033
+Low income,19-03-2021,690420
+High income,18-03-2021,64718322
+Middle Class Income,18-03-2021,35148940
+Lower middle income,18-03-2021,21666796
+Low income,18-03-2021,686234
+High income,17-03-2021,64452175
+Middle Class Income,17-03-2021,34963565
+Lower middle income,17-03-2021,21574260
+Low income,17-03-2021,682389
+High income,16-03-2021,64196880
+Middle Class Income,16-03-2021,34762261
+Lower middle income,16-03-2021,21489034
+Low income,16-03-2021,678542
+High income,15-03-2021,63981885
+Middle Class Income,15-03-2021,34586461
+Lower middle income,15-03-2021,21416090
+Low income,15-03-2021,675259
+High income,14-03-2021,63820135
+Middle Class Income,14-03-2021,34460241
+Lower middle income,14-03-2021,21352475
+Low income,14-03-2021,672745
+High income,13-03-2021,63638129
+Middle Class Income,13-03-2021,34346304
+Lower middle income,13-03-2021,21286347
+Low income,13-03-2021,669765
+High income,12-03-2021,63410158
+Middle Class Income,12-03-2021,34194480
+Lower middle income,12-03-2021,21214534
+Low income,12-03-2021,665774
+High income,11-03-2021,63171482
+Middle Class Income,11-03-2021,34018978
+Lower middle income,11-03-2021,21142919
+Low income,11-03-2021,662330
+High income,10-03-2021,62924097
+Middle Class Income,10-03-2021,33849101
+Lower middle income,10-03-2021,21074220
+Low income,10-03-2021,658650
+High income,09-03-2021,62692563
+Middle Class Income,09-03-2021,33687430
+Lower middle income,09-03-2021,21011961
+Low income,09-03-2021,655266
+High income,08-03-2021,62492244
+Middle Class Income,08-03-2021,33528850
+Lower middle income,08-03-2021,20959261
+Low income,08-03-2021,652864
+High income,07-03-2021,62351396
+Middle Class Income,07-03-2021,33417936
+Lower middle income,07-03-2021,20907935
+Low income,07-03-2021,650459
+High income,06-03-2021,62182299
+Middle Class Income,06-03-2021,33270858
+Lower middle income,06-03-2021,20852629
+Low income,06-03-2021,647502
+High income,05-03-2021,61974270
+Middle Class Income,05-03-2021,33127063
+Lower middle income,05-03-2021,20794185
+Low income,05-03-2021,643759
+High income,04-03-2021,61741866
+Middle Class Income,04-03-2021,32972823
+Lower middle income,04-03-2021,20734418
+Low income,04-03-2021,641054
+High income,03-03-2021,61506567
+Middle Class Income,03-03-2021,32813284
+Lower middle income,03-03-2021,20674236
+Low income,03-03-2021,637628
+High income,02-03-2021,61274445
+Middle Class Income,02-03-2021,32663312
+Lower middle income,02-03-2021,20618033
+Low income,02-03-2021,634066
+High income,01-03-2021,61157576
+Middle Class Income,01-03-2021,32518808
+Lower middle income,01-03-2021,20568990
+Low income,01-03-2021,631228
+High income,28-02-2021,61007252
+Middle Class Income,28-02-2021,32409815
+Lower middle income,28-02-2021,20525139
+Low income,28-02-2021,628864
+High income,27-02-2021,60840000
+Middle Class Income,27-02-2021,32321109
+Lower middle income,27-02-2021,20476350
+Low income,27-02-2021,625832
+High income,26-02-2021,60629691
+Middle Class Income,26-02-2021,32191230
+Lower middle income,26-02-2021,20423110
+Low income,26-02-2021,622547
+High income,25-02-2021,60396669
+Middle Class Income,25-02-2021,32043550
+Lower middle income,25-02-2021,20365507
+Low income,25-02-2021,618893
+High income,24-02-2021,60156385
+Middle Class Income,24-02-2021,31893775
+Lower middle income,24-02-2021,20305988
+Low income,24-02-2021,615491
+High income,23-02-2021,59919217
+Middle Class Income,23-02-2021,31743794
+Lower middle income,23-02-2021,20251709
+Low income,23-02-2021,611955
+High income,22-02-2021,59716229
+Middle Class Income,22-02-2021,31606531
+Lower middle income,22-02-2021,20202005
+Low income,22-02-2021,609181
+High income,21-02-2021,59560367
+Middle Class Income,21-02-2021,31514343
+Lower middle income,21-02-2021,20157483
+Low income,21-02-2021,606168
+High income,20-02-2021,59391790
+Middle Class Income,20-02-2021,31413428
+Lower middle income,20-02-2021,20110748
+Low income,20-02-2021,602842
+High income,19-02-2021,59195745
+Middle Class Income,19-02-2021,31287868
+Lower middle income,19-02-2021,20060816
+Low income,19-02-2021,599218
+High income,18-02-2021,58973771
+Middle Class Income,18-02-2021,31156837
+Lower middle income,18-02-2021,20007790
+Low income,18-02-2021,595594
+High income,17-02-2021,58752121
+Middle Class Income,17-02-2021,31024009
+Lower middle income,17-02-2021,19955351
+Low income,17-02-2021,591717
+High income,16-02-2021,58540765
+Middle Class Income,16-02-2021,30902771
+Lower middle income,16-02-2021,19905452
+Low income,16-02-2021,587849
+High income,15-02-2021,58360179
+Middle Class Income,15-02-2021,30774895
+Lower middle income,15-02-2021,19857571
+Low income,15-02-2021,584422
+High income,14-02-2021,58203011
+Middle Class Income,14-02-2021,30691279
+Lower middle income,14-02-2021,19820415
+Low income,14-02-2021,581488
+High income,13-02-2021,58040458
+Middle Class Income,13-02-2021,30590948
+Lower middle income,13-02-2021,19779268
+Low income,13-02-2021,576889
+High income,12-02-2021,57833437
+Middle Class Income,12-02-2021,30469523
+Lower middle income,12-02-2021,19729692
+Low income,12-02-2021,574457
+High income,11-02-2021,57590797
+Middle Class Income,11-02-2021,30337643
+Lower middle income,11-02-2021,19678428
+Low income,11-02-2021,570652
+High income,10-02-2021,57333269
+Middle Class Income,10-02-2021,30201453
+Lower middle income,10-02-2021,19632076
+Low income,10-02-2021,566954
+High income,09-02-2021,57082955
+Middle Class Income,09-02-2021,30064742
+Lower middle income,09-02-2021,19582351
+Low income,09-02-2021,563248
+High income,08-02-2021,56857643
+Middle Class Income,08-02-2021,29932198
+Lower middle income,08-02-2021,19536814
+Low income,08-02-2021,559439
+High income,07-02-2021,56651390
+Middle Class Income,07-02-2021,29842962
+Lower middle income,07-02-2021,19495450
+Low income,07-02-2021,556350
+High income,06-02-2021,56450290
+Middle Class Income,06-02-2021,29742597
+Lower middle income,06-02-2021,19449147
+Low income,06-02-2021,552600
+High income,05-02-2021,56205092
+Middle Class Income,05-02-2021,29608181
+Lower middle income,05-02-2021,19397463
+Low income,05-02-2021,548760
+High income,04-02-2021,55879874
+Middle Class Income,04-02-2021,29454806
+Lower middle income,04-02-2021,19343890
+Low income,04-02-2021,544433
+High income,03-02-2021,55596698
+Middle Class Income,03-02-2021,29325155
+Lower middle income,03-02-2021,19289805
+Low income,03-02-2021,539613
+High income,02-02-2021,55287060
+Middle Class Income,02-02-2021,29168440
+Lower middle income,02-02-2021,19235249
+Low income,02-02-2021,535252
+High income,01-02-2021,55008177
+Middle Class Income,01-02-2021,29035122
+Lower middle income,01-02-2021,19186011
+Low income,01-02-2021,531204
+High income,31-01-2021,54710255
+Middle Class Income,31-01-2021,28934929
+Lower middle income,31-01-2021,19144521
+Low income,31-01-2021,527778
+High income,30-01-2021,54472302
+Middle Class Income,30-01-2021,28830208
+Lower middle income,30-01-2021,19094879
+Low income,30-01-2021,523549
+High income,29-01-2021,54175039
+Middle Class Income,29-01-2021,28676280
+Lower middle income,29-01-2021,19035981
+Low income,29-01-2021,518854
+High income,28-01-2021,53810214
+Middle Class Income,28-01-2021,28516723
+Lower middle income,28-01-2021,18976528
+Low income,28-01-2021,513722
+High income,27-01-2021,53431691
+Middle Class Income,27-01-2021,28350153
+Lower middle income,27-01-2021,18911398
+Low income,27-01-2021,508863
+High income,26-01-2021,53056894
+Middle Class Income,26-01-2021,28186051
+Lower middle income,26-01-2021,18854510
+Low income,26-01-2021,503660
+High income,25-01-2021,52725316
+Middle Class Income,25-01-2021,28015677
+Lower middle income,25-01-2021,18800365
+Low income,25-01-2021,498519
+High income,24-01-2021,52402302
+Middle Class Income,24-01-2021,27907236
+Lower middle income,24-01-2021,18753219
+Low income,24-01-2021,495523
+High income,23-01-2021,52120913
+Middle Class Income,23-01-2021,27783878
+Lower middle income,23-01-2021,18700401
+Low income,23-01-2021,491140
+High income,22-01-2021,51772228
+Middle Class Income,22-01-2021,27622285
+Lower middle income,22-01-2021,18638598
+Low income,22-01-2021,486606
+High income,21-01-2021,51349797
+Middle Class Income,21-01-2021,27447594
+Lower middle income,21-01-2021,18576912
+Low income,21-01-2021,481848
+High income,20-01-2021,50921656
+Middle Class Income,20-01-2021,27275337
+Lower middle income,20-01-2021,18513349
+Low income,20-01-2021,477025
+High income,19-01-2021,50494097
+Middle Class Income,19-01-2021,27084518
+Lower middle income,19-01-2021,18449696
+Low income,19-01-2021,471852
+High income,18-01-2021,50132787
+Middle Class Income,18-01-2021,26914782
+Lower middle income,18-01-2021,18392581
+Low income,18-01-2021,467259
+High income,17-01-2021,49786199
+Middle Class Income,17-01-2021,26796085
+Lower middle income,17-01-2021,18344058
+Low income,17-01-2021,463841
+High income,16-01-2021,49454820
+Middle Class Income,16-01-2021,26663195
+Lower middle income,16-01-2021,18285451
+Low income,16-01-2021,459149
+High income,15-01-2021,49049382
+Middle Class Income,15-01-2021,26485550
+Lower middle income,15-01-2021,18216456
+Low income,15-01-2021,454439
+High income,14-01-2021,48551249
+Middle Class Income,14-01-2021,26276118
+Lower middle income,14-01-2021,18145009
+Low income,14-01-2021,449568
+High income,13-01-2021,48056878
+Middle Class Income,13-01-2021,26084026
+Lower middle income,13-01-2021,18077485
+Low income,13-01-2021,444482
+High income,12-01-2021,47569728
+Middle Class Income,12-01-2021,25900517
+Lower middle income,12-01-2021,18009076
+Low income,12-01-2021,440254
+High income,11-01-2021,47121915
+Middle Class Income,11-01-2021,25720384
+Lower middle income,11-01-2021,17948194
+Low income,11-01-2021,436717
+High income,10-01-2021,46703516
+Middle Class Income,10-01-2021,25581070
+Lower middle income,10-01-2021,17894352
+Low income,10-01-2021,433672
+High income,09-01-2021,46297853
+Middle Class Income,09-01-2021,25448807
+Lower middle income,09-01-2021,17836167
+Low income,09-01-2021,428282
+High income,08-01-2021,45798323
+Middle Class Income,08-01-2021,25280031
+Lower middle income,08-01-2021,17752120
+Low income,08-01-2021,424541
+High income,07-01-2021,45204037
+Middle Class Income,07-01-2021,25091179
+Lower middle income,07-01-2021,17703297
+Low income,07-01-2021,420986
+High income,06-01-2021,44618429
+Middle Class Income,06-01-2021,24877836
+Lower middle income,06-01-2021,17635595
+Low income,06-01-2021,417758
+High income,05-01-2021,44090743
+Middle Class Income,05-01-2021,24685087
+Lower middle income,05-01-2021,17568191
+Low income,05-01-2021,414553
+High income,04-01-2021,43588240
+Middle Class Income,04-01-2021,24508356
+Lower middle income,04-01-2021,17509166
+Low income,04-01-2021,412016
+High income,03-01-2021,43205848
+Middle Class Income,03-01-2021,24385398
+Lower middle income,03-01-2021,17458935
+Low income,03-01-2021,409967
+High income,02-01-2021,42840811
+Middle Class Income,02-01-2021,24283788
+Lower middle income,02-01-2021,17407791
+Low income,02-01-2021,407502
+High income,01-01-2021,42397267
+Middle Class Income,01-01-2021,24178716
+Lower middle income,01-01-2021,17354166
+Low income,01-01-2021,405570
+High income,31-12-2020,42024144
+Middle Class Income,31-12-2020,24054132
+Lower middle income,31-12-2020,17290559
+Low income,31-12-2020,403169
+High income,30-12-2020,41438640
+Middle Class Income,30-12-2020,23870581
+Lower middle income,30-12-2020,17222748
+Low income,30-12-2020,400473
+High income,29-12-2020,40961313
+Middle Class Income,29-12-2020,23691261
+Lower middle income,29-12-2020,17156700
+Low income,29-12-2020,397866
+High income,28-12-2020,40522509
+Middle Class Income,28-12-2020,23522615
+Lower middle income,28-12-2020,17094766
+Low income,28-12-2020,395586
+High income,27-12-2020,40195155
+Middle Class Income,27-12-2020,23400958
+Lower middle income,27-12-2020,17045836
+Low income,27-12-2020,394208
+High income,26-12-2020,39946289
+Middle Class Income,26-12-2020,23293099
+Lower middle income,26-12-2020,16991364
+Low income,26-12-2020,392272
+High income,25-12-2020,39586623
+Middle Class Income,25-12-2020,23179675
+Lower middle income,25-12-2020,16933938
+Low income,25-12-2020,390201
+High income,24-12-2020,39308638
+Middle Class Income,24-12-2020,23034372
+Lower middle income,24-12-2020,16866823
+Low income,24-12-2020,387455
+High income,23-12-2020,38863387
+Middle Class Income,23-12-2020,22859537
+Lower middle income,23-12-2020,16796507
+Low income,23-12-2020,384587
+High income,22-12-2020,38425356
+Middle Class Income,22-12-2020,22688917
+Lower middle income,22-12-2020,16725760
+Low income,22-12-2020,381901
+High income,21-12-2020,38018378
+Middle Class Income,21-12-2020,22512028
+Lower middle income,21-12-2020,16660636
+Low income,21-12-2020,379604
+High income,20-12-2020,37662464
+Middle Class Income,20-12-2020,22377851
+Lower middle income,20-12-2020,16606311
+Low income,20-12-2020,377645
+High income,19-12-2020,37315574
+Middle Class Income,19-12-2020,22243687
+Lower middle income,19-12-2020,16542217
+Low income,19-12-2020,375620
+High income,18-12-2020,36924232
+Middle Class Income,18-12-2020,22075336
+Lower middle income,18-12-2020,16469293
+Low income,18-12-2020,372998
+High income,17-12-2020,36460901
+Middle Class Income,17-12-2020,21894298
+Lower middle income,17-12-2020,16394828
+Low income,17-12-2020,370421
+High income,16-12-2020,35997817
+Middle Class Income,16-12-2020,21693225
+Lower middle income,16-12-2020,16323297
+Low income,16-12-2020,367577
+High income,15-12-2020,35550131
+Middle Class Income,15-12-2020,21497011
+Lower middle income,15-12-2020,16252111
+Low income,15-12-2020,365091
+High income,14-12-2020,35153221
+Middle Class Income,14-12-2020,21318097
+Lower middle income,14-12-2020,16181298
+Low income,14-12-2020,363236
+High income,13-12-2020,34802281
+Middle Class Income,13-12-2020,21177294
+Lower middle income,13-12-2020,16123930
+Low income,13-12-2020,361140
+High income,12-12-2020,34467887
+Middle Class Income,12-12-2020,21042133
+Lower middle income,12-12-2020,16056967
+Low income,12-12-2020,358958
+High income,11-12-2020,34068648
+Middle Class Income,11-12-2020,20874491
+Lower middle income,11-12-2020,15978179
+Low income,11-12-2020,356155
+High income,10-12-2020,33635922
+Middle Class Income,10-12-2020,20685826
+Lower middle income,10-12-2020,15896202
+Low income,10-12-2020,353789
+High income,09-12-2020,33209819
+Middle Class Income,09-12-2020,19700650
+Lower middle income,09-12-2020,15814747
+Low income,09-12-2020,351238
+High income,08-12-2020,32819918
+Middle Class Income,08-12-2020,19513289
+Lower middle income,08-12-2020,15730090
+Low income,08-12-2020,347803
+High income,07-12-2020,32445951
+Middle Class Income,07-12-2020,19339115
+Lower middle income,07-12-2020,15649628
+Low income,07-12-2020,346004
+High income,06-12-2020,32124646
+Middle Class Income,06-12-2020,19196620
+Lower middle income,06-12-2020,15580793
+Low income,06-12-2020,343526
+High income,05-12-2020,31812491
+Middle Class Income,05-12-2020,19053283
+Lower middle income,05-12-2020,15494503
+Low income,05-12-2020,341477
+High income,04-12-2020,31437297
+Middle Class Income,04-12-2020,18877478
+Lower middle income,04-12-2020,15405676
+Low income,04-12-2020,339219
+High income,03-12-2020,31021503
+Middle Class Income,03-12-2020,18694839
+Lower middle income,03-12-2020,15309870
+Low income,03-12-2020,337055
+High income,02-12-2020,30620980
+Middle Class Income,02-12-2020,18504051
+Lower middle income,02-12-2020,15212575
+Low income,02-12-2020,335105
+High income,01-12-2020,30257055
+Middle Class Income,01-12-2020,18325655
+Lower middle income,01-12-2020,15116698
+Low income,01-12-2020,333038
+High income,30-11-2020,29909578
+Middle Class Income,30-11-2020,18147880
+Lower middle income,30-11-2020,15029214
+Low income,30-11-2020,331036
+High income,29-11-2020,29622835
+Middle Class Income,29-11-2020,18008992
+Lower middle income,29-11-2020,14949982
+Low income,29-11-2020,329173
+High income,28-11-2020,29359080
+Middle Class Income,28-11-2020,17872535
+Lower middle income,28-11-2020,14856184
+Low income,28-11-2020,327660
+High income,27-11-2020,29032681
+Middle Class Income,27-11-2020,17693481
+Lower middle income,27-11-2020,14755968
+Low income,27-11-2020,325989
+High income,26-11-2020,28628632
+Middle Class Income,26-11-2020,17507101
+Lower middle income,26-11-2020,14653304
+Low income,26-11-2020,323735
+High income,25-11-2020,28318704
+Middle Class Income,25-11-2020,17331441
+Lower middle income,25-11-2020,14551688
+Low income,25-11-2020,321914
+High income,24-11-2020,27956467
+Middle Class Income,24-11-2020,17181857
+Lower middle income,24-11-2020,14448428
+Low income,24-11-2020,319897
+High income,23-11-2020,27600177
+Middle Class Income,23-11-2020,17046316
+Lower middle income,23-11-2020,14351204
+Low income,23-11-2020,318326
+High income,22-11-2020,27260621
+Middle Class Income,22-11-2020,16939723
+Lower middle income,22-11-2020,14264586
+Low income,22-11-2020,316778
+High income,21-11-2020,26965644
+Middle Class Income,21-11-2020,16833872
+Lower middle income,21-11-2020,14168797
+Low income,21-11-2020,315383
+High income,20-11-2020,26600238
+Middle Class Income,20-11-2020,16710719
+Lower middle income,20-11-2020,14066699
+Low income,20-11-2020,313713
+High income,19-11-2020,26172356
+Middle Class Income,19-11-2020,16570740
+Lower middle income,19-11-2020,13962414
+Low income,19-11-2020,311711
+High income,18-11-2020,25751223
+Middle Class Income,18-11-2020,16440592
+Lower middle income,18-11-2020,13861518
+Low income,18-11-2020,310033
+High income,17-11-2020,25359315
+Middle Class Income,17-11-2020,16312176
+Lower middle income,17-11-2020,13761370
+Low income,17-11-2020,308299
+High income,16-11-2020,24968449
+Middle Class Income,16-11-2020,16191422
+Lower middle income,16-11-2020,13672258
+Low income,16-11-2020,306958
+High income,15-11-2020,24611778
+Middle Class Income,15-11-2020,16096854
+Lower middle income,15-11-2020,13599228
+Low income,15-11-2020,305382
+High income,14-11-2020,24289466
+Middle Class Income,14-11-2020,16009745
+Lower middle income,14-11-2020,13519759
+Low income,14-11-2020,304118
+High income,13-11-2020,23911389
+Middle Class Income,13-11-2020,15896597
+Lower middle income,13-11-2020,13426077
+Low income,13-11-2020,302348
+High income,12-11-2020,23480795
+Middle Class Income,12-11-2020,15765943
+Lower middle income,12-11-2020,13327733
+Low income,12-11-2020,300980
+High income,11-11-2020,23063591
+Middle Class Income,11-11-2020,15640115
+Lower middle income,11-11-2020,13231945
+Low income,11-11-2020,299681
+High income,10-11-2020,22654673
+Middle Class Income,10-11-2020,15523267
+Lower middle income,10-11-2020,13134367
+Low income,10-11-2020,298399
+High income,09-11-2020,22307557
+Middle Class Income,09-11-2020,15391737
+Lower middle income,09-11-2020,13043163
+Low income,09-11-2020,297353
+High income,08-11-2020,21967027
+Middle Class Income,08-11-2020,15301999
+Lower middle income,08-11-2020,12964595
+Low income,08-11-2020,296323
+High income,07-11-2020,21651071
+Middle Class Income,07-11-2020,15218659
+Lower middle income,07-11-2020,12874564
+Low income,07-11-2020,294827
+High income,06-11-2020,21247249
+Middle Class Income,06-11-2020,15119530
+Lower middle income,06-11-2020,12779660
+Low income,06-11-2020,293658
+High income,05-11-2020,20828243
+Middle Class Income,05-11-2020,15011080
+Lower middle income,05-11-2020,12685239
+Low income,05-11-2020,292499
+High income,04-11-2020,20415875
+Middle Class Income,04-11-2020,14899178
+Lower middle income,04-11-2020,12591544
+Low income,04-11-2020,291192
+High income,03-11-2020,20135838
+Middle Class Income,03-11-2020,14783277
+Lower middle income,03-11-2020,12496538
+Low income,03-11-2020,289989
+High income,02-11-2020,19750826
+Middle Class Income,02-11-2020,14692554
+Lower middle income,02-11-2020,12408375
+Low income,02-11-2020,288473
+High income,01-11-2020,19355843
+Middle Class Income,01-11-2020,14614328
+Lower middle income,01-11-2020,12334199
+Low income,01-11-2020,287435
+High income,31-10-2020,19079878
+Middle Class Income,31-10-2020,14535936
+Lower middle income,31-10-2020,12250712
+Low income,31-10-2020,286175
+High income,30-10-2020,18785586
+Middle Class Income,30-10-2020,14445448
+Lower middle income,30-10-2020,12164375
+Low income,30-10-2020,285267
+High income,29-10-2020,18413925
+Middle Class Income,29-10-2020,14337866
+Lower middle income,29-10-2020,12073377
+Low income,29-10-2020,283789
+High income,28-10-2020,18062080
+Middle Class Income,28-10-2020,14227950
+Lower middle income,28-10-2020,11985320
+Low income,28-10-2020,282232
+High income,27-10-2020,17738659
+Middle Class Income,27-10-2020,14119681
+Lower middle income,27-10-2020,11896561
+Low income,27-10-2020,281022
+High income,26-10-2020,17454632
+Middle Class Income,26-10-2020,14013893
+Lower middle income,26-10-2020,11819199
+Low income,26-10-2020,279797
+High income,25-10-2020,17126489
+Middle Class Income,25-10-2020,13929206
+Lower middle income,25-10-2020,11749845
+Low income,25-10-2020,278870
+High income,24-10-2020,16928311
+Middle Class Income,24-10-2020,13848117
+Lower middle income,24-10-2020,11671299
+Low income,24-10-2020,277904
+High income,23-10-2020,16660015
+Middle Class Income,23-10-2020,13748602
+Lower middle income,23-10-2020,11584203
+Low income,23-10-2020,276593
+High income,22-10-2020,16366265
+Middle Class Income,22-10-2020,13642247
+Lower middle income,22-10-2020,11491712
+Low income,22-10-2020,275367
+High income,21-10-2020,16083101
+Middle Class Income,21-10-2020,13535630
+Lower middle income,21-10-2020,11400665
+Low income,21-10-2020,274176
+High income,20-10-2020,15842914
+Middle Class Income,20-10-2020,13431388
+Lower middle income,20-10-2020,11306738
+Low income,20-10-2020,273047
+High income,19-10-2020,15637789
+Middle Class Income,19-10-2020,13336007
+Lower middle income,19-10-2020,11219634
+Low income,19-10-2020,271870
+High income,18-10-2020,15420931
+Middle Class Income,18-10-2020,13257249
+Lower middle income,18-10-2020,11141707
+Low income,18-10-2020,270456
+High income,17-10-2020,15247967
+Middle Class Income,17-10-2020,13185407
+Lower middle income,17-10-2020,11056664
+Low income,17-10-2020,269122
+High income,16-10-2020,15062984
+Middle Class Income,16-10-2020,13100190
+Lower middle income,16-10-2020,10956149
+Low income,16-10-2020,267804
+High income,15-10-2020,14850649
+Middle Class Income,15-10-2020,12999782
+Lower middle income,15-10-2020,10859746
+Low income,15-10-2020,266469
+High income,14-10-2020,14643391
+Middle Class Income,14-10-2020,12896996
+Lower middle income,14-10-2020,10764117
+Low income,14-10-2020,265218
+High income,13-10-2020,14456054
+Middle Class Income,13-10-2020,12806581
+Lower middle income,13-10-2020,10662558
+Low income,13-10-2020,263848
+High income,12-10-2020,14303465
+Middle Class Income,12-10-2020,12734436
+Lower middle income,12-10-2020,10569087
+Low income,12-10-2020,262689
+High income,11-10-2020,14159146
+Middle Class Income,11-10-2020,12673368
+Lower middle income,11-10-2020,10485812
+Low income,11-10-2020,261324
+High income,10-10-2020,14033617
+Middle Class Income,10-10-2020,12607277
+Lower middle income,10-10-2020,10389457
+Low income,10-10-2020,259873
+High income,09-10-2020,13879599
+Middle Class Income,09-10-2020,12519677
+Lower middle income,09-10-2020,10277099
+Low income,09-10-2020,258406
+High income,08-10-2020,13715655
+Middle Class Income,08-10-2020,12428941
+Lower middle income,08-10-2020,10172808
+Low income,08-10-2020,257000
+High income,07-10-2020,13554396
+Middle Class Income,07-10-2020,12337894
+Lower middle income,07-10-2020,10067431
+Low income,07-10-2020,255392
+High income,06-10-2020,13412937
+Middle Class Income,06-10-2020,12242903
+Lower middle income,06-10-2020,9956132
+Low income,06-10-2020,253901
+High income,05-10-2020,13287970
+Middle Class Income,05-10-2020,12152371
+Lower middle income,05-10-2020,9856796
+Low income,05-10-2020,252700
+High income,04-10-2020,13170710
+Middle Class Income,04-10-2020,12045518
+Lower middle income,04-10-2020,9770725
+Low income,04-10-2020,251514
+High income,03-10-2020,13065803
+Middle Class Income,03-10-2020,11993263
+Lower middle income,03-10-2020,9669106
+Low income,03-10-2020,249803
+High income,02-10-2020,12950794
+Middle Class Income,02-10-2020,11916803
+Lower middle income,02-10-2020,9564776
+Low income,02-10-2020,248316
+High income,01-10-2020,12822621
+Middle Class Income,01-10-2020,11826043
+Lower middle income,01-10-2020,9455819
+Low income,01-10-2020,246732
+High income,30-09-2020,12705092
+Middle Class Income,30-09-2020,11733949
+Lower middle income,30-09-2020,9347691
+Low income,30-09-2020,245382
+High income,29-09-2020,12585166
+Middle Class Income,29-09-2020,11644957
+Lower middle income,29-09-2020,9233478
+Low income,29-09-2020,244001
+High income,28-09-2020,12494647
+Middle Class Income,28-09-2020,11560487
+Lower middle income,28-09-2020,9127142
+Low income,28-09-2020,242570
+High income,27-09-2020,12391979
+Middle Class Income,27-09-2020,11495385
+Lower middle income,27-09-2020,9033558
+Low income,27-09-2020,241173
+High income,26-09-2020,12313826
+Middle Class Income,26-09-2020,11435252
+Lower middle income,26-09-2020,8926206
+Low income,26-09-2020,239839
+High income,25-09-2020,12216385
+Middle Class Income,25-09-2020,11361314
+Lower middle income,25-09-2020,8813187
+Low income,25-09-2020,238572
+High income,24-09-2020,12095784
+Middle Class Income,24-09-2020,11265360
+Lower middle income,24-09-2020,8700877
+Low income,24-09-2020,237448
+High income,23-09-2020,11977133
+Middle Class Income,23-09-2020,11176575
+Lower middle income,23-09-2020,8588597
+Low income,23-09-2020,236269
+High income,22-09-2020,11871805
+Middle Class Income,22-09-2020,11085378
+Lower middle income,22-09-2020,8474836
+Low income,22-09-2020,234932
+High income,21-09-2020,11776730
+Middle Class Income,21-09-2020,11003560
+Lower middle income,21-09-2020,8369127
+Low income,21-09-2020,233254
+High income,20-09-2020,11678025
+Middle Class Income,20-09-2020,10942536
+Lower middle income,20-09-2020,8270423
+Low income,20-09-2020,231758
+High income,19-09-2020,11597290
+Middle Class Income,19-09-2020,10882074
+Lower middle income,19-09-2020,8158187
+Low income,19-09-2020,230086
+High income,18-09-2020,11506674
+Middle Class Income,18-09-2020,10799746
+Lower middle income,18-09-2020,8039763
+Low income,18-09-2020,228373
+High income,17-09-2020,11393849
+Middle Class Income,17-09-2020,10706050
+Lower middle income,17-09-2020,7921098
+Low income,17-09-2020,226938
+High income,16-09-2020,11290847
+Middle Class Income,16-09-2020,10616205
+Lower middle income,16-09-2020,7799650
+Low income,16-09-2020,225668
+High income,15-09-2020,11199505
+Middle Class Income,15-09-2020,10526440
+Lower middle income,15-09-2020,7677360
+Low income,15-09-2020,224114
+High income,14-09-2020,11116055
+Middle Class Income,14-09-2020,10444068
+Lower middle income,14-09-2020,7564124
+Low income,14-09-2020,222642
+High income,13-09-2020,11024620
+Middle Class Income,13-09-2020,10377574
+Lower middle income,13-09-2020,7456161
+Low income,13-09-2020,221382
+High income,12-09-2020,10952081
+Middle Class Income,12-09-2020,10316554
+Lower middle income,12-09-2020,7342184
+Low income,12-09-2020,220095
+High income,11-09-2020,10868033
+Middle Class Income,11-09-2020,10232787
+Lower middle income,11-09-2020,7222743
+Low income,11-09-2020,218664
+High income,10-09-2020,10772990
+Middle Class Income,10-09-2020,10135405
+Lower middle income,10-09-2020,7100318
+Low income,10-09-2020,217158
+High income,09-09-2020,10684456
+Middle Class Income,09-09-2020,10040606
+Lower middle income,09-09-2020,6980935
+Low income,09-09-2020,215482
+High income,08-09-2020,10608243
+Middle Class Income,08-09-2020,9950978
+Lower middle income,08-09-2020,6863235
+Low income,08-09-2020,213730
+High income,07-09-2020,10541430
+Middle Class Income,07-09-2020,9884195
+Lower middle income,07-09-2020,6752301
+Low income,07-09-2020,211761
+High income,06-09-2020,10465176
+Middle Class Income,06-09-2020,9838542
+Lower middle income,06-09-2020,6658511
+Low income,06-09-2020,210180
+High income,05-09-2020,10408157
+Middle Class Income,05-09-2020,9779347
+Lower middle income,05-09-2020,6547857
+Low income,05-09-2020,208061
+High income,04-09-2020,10335365
+Middle Class Income,04-09-2020,9690246
+Lower middle income,04-09-2020,6437893
+Low income,04-09-2020,206226
+High income,03-09-2020,10244744
+Middle Class Income,03-09-2020,9589660
+Lower middle income,03-09-2020,6329384
+Low income,03-09-2020,204220
+High income,02-09-2020,10161279
+Middle Class Income,02-09-2020,9492891
+Lower middle income,02-09-2020,6225843
+Low income,02-09-2020,202584
+High income,01-09-2020,10085292
+Middle Class Income,01-09-2020,9394266
+Lower middle income,01-09-2020,6120246
+Low income,01-09-2020,200917
+High income,31-08-2020,10012429
+Middle Class Income,31-08-2020,9300063
+Lower middle income,31-08-2020,6022537
+Low income,31-08-2020,198812
+High income,30-08-2020,9935399
+Middle Class Income,30-08-2020,9203442
+Lower middle income,30-08-2020,5933407
+Low income,30-08-2020,197283
+High income,29-08-2020,9879285
+Middle Class Income,29-08-2020,9141004
+Lower middle income,29-08-2020,5834557
+Low income,29-08-2020,194958
+High income,28-08-2020,9812816
+Middle Class Income,28-08-2020,9049324
+Lower middle income,28-08-2020,5734272
+Low income,28-08-2020,192683
+High income,27-08-2020,9730886
+Middle Class Income,27-08-2020,8949039
+Lower middle income,27-08-2020,5635210
+Low income,27-08-2020,190031
+High income,26-08-2020,9639072
+Middle Class Income,26-08-2020,8854405
+Lower middle income,26-08-2020,5536379
+Low income,26-08-2020,188057
+High income,25-08-2020,9570016
+Middle Class Income,25-08-2020,8751957
+Lower middle income,25-08-2020,5428611
+Low income,25-08-2020,185648
+High income,24-08-2020,9499703
+Middle Class Income,24-08-2020,8656126
+Lower middle income,24-08-2020,5352092
+Low income,24-08-2020,183111
+High income,23-08-2020,9428282
+Middle Class Income,23-08-2020,8582849
+Lower middle income,23-08-2020,5270939
+Low income,23-08-2020,180862
+High income,22-08-2020,9375549
+Middle Class Income,22-08-2020,8515770
+Lower middle income,22-08-2020,5190918
+Low income,22-08-2020,177947
+High income,21-08-2020,9307991
+Middle Class Income,21-08-2020,8413433
+Lower middle income,21-08-2020,5099850
+Low income,21-08-2020,175384
+High income,20-08-2020,9227838
+Middle Class Income,20-08-2020,8326457
+Lower middle income,20-08-2020,5007885
+Low income,20-08-2020,172518
+High income,19-08-2020,9152352
+Middle Class Income,19-08-2020,8224400
+Lower middle income,19-08-2020,4916835
+Low income,19-08-2020,169641
+High income,18-08-2020,9077759
+Middle Class Income,18-08-2020,8117443
+Lower middle income,18-08-2020,4823212
+Low income,18-08-2020,167347
+High income,17-08-2020,9008622
+Middle Class Income,17-08-2020,8017407
+Lower middle income,17-08-2020,4735475
+Low income,17-08-2020,164840
+High income,16-08-2020,8940246
+Middle Class Income,16-08-2020,7948611
+Lower middle income,16-08-2020,4662406
+Low income,16-08-2020,162196
+High income,15-08-2020,8886998
+Middle Class Income,15-08-2020,7872316
+Lower middle income,15-08-2020,4584118
+Low income,15-08-2020,159992
+High income,14-08-2020,8813530
+Middle Class Income,14-08-2020,7786090
+Lower middle income,14-08-2020,4497481
+Low income,14-08-2020,157308
+High income,13-08-2020,8715229
+Middle Class Income,13-08-2020,7668342
+Lower middle income,13-08-2020,4408597
+Low income,13-08-2020,155157
+High income,12-08-2020,8633862
+Middle Class Income,12-08-2020,7547991
+Lower middle income,12-08-2020,4322367
+Low income,12-08-2020,153005
+High income,11-08-2020,8554851
+Middle Class Income,11-08-2020,7443739
+Lower middle income,11-08-2020,4232445
+Low income,11-08-2020,151114
+High income,10-08-2020,8475469
+Middle Class Income,10-08-2020,7340208
+Lower middle income,10-08-2020,4151277
+Low income,10-08-2020,149635
+High income,09-08-2020,8395548
+Middle Class Income,09-08-2020,7264442
+Lower middle income,09-08-2020,4075196
+Low income,09-08-2020,148183
+High income,08-08-2020,8325711
+Middle Class Income,08-08-2020,7184323
+Lower middle income,08-08-2020,3993597
+Low income,08-08-2020,146745
+High income,07-08-2020,8244826
+Middle Class Income,07-08-2020,7088541
+Lower middle income,07-08-2020,3906981
+Low income,07-08-2020,144799
+High income,06-08-2020,8157647
+Middle Class Income,06-08-2020,6978948
+Lower middle income,06-08-2020,3823152
+Low income,06-08-2020,142968
+High income,05-08-2020,8073306
+Middle Class Income,05-08-2020,6862280
+Lower middle income,05-08-2020,3739121
+Low income,05-08-2020,141289
+High income,04-08-2020,7996004
+Middle Class Income,04-08-2020,6745423
+Lower middle income,04-08-2020,3659780
+Low income,04-08-2020,139636
+High income,03-08-2020,7912001
+Middle Class Income,03-08-2020,6640326
+Lower middle income,03-08-2020,3585296
+Low income,03-08-2020,137904
+High income,02-08-2020,7844182
+Middle Class Income,02-08-2020,6574546
+Lower middle income,02-08-2020,3514039
+Low income,02-08-2020,136687
+High income,01-08-2020,7783790
+Middle Class Income,01-08-2020,6478150
+Lower middle income,01-08-2020,3441713
+Low income,01-08-2020,135201
+High income,31-07-2020,7710419
+Middle Class Income,31-07-2020,6384366
+Lower middle income,31-07-2020,3364329
+Low income,31-07-2020,133492
+High income,30-07-2020,7624459
+Middle Class Income,30-07-2020,6268302
+Lower middle income,30-07-2020,3280952
+Low income,30-07-2020,131439
+High income,29-07-2020,7532602
+Middle Class Income,29-07-2020,6155515
+Lower middle income,29-07-2020,3206008
+Low income,29-07-2020,129264
+High income,28-07-2020,7446942
+Middle Class Income,28-07-2020,6043706
+Lower middle income,28-07-2020,3134790
+Low income,28-07-2020,127713
+High income,27-07-2020,7363607
+Middle Class Income,27-07-2020,5935941
+Lower middle income,27-07-2020,3064020
+Low income,27-07-2020,125707
+High income,26-07-2020,7278435
+Middle Class Income,26-07-2020,5851847
+Lower middle income,26-07-2020,3000488
+Low income,26-07-2020,124114
+High income,25-07-2020,7206916
+Middle Class Income,25-07-2020,5781920
+Lower middle income,25-07-2020,2932157
+Low income,25-07-2020,122092
+High income,24-07-2020,7125876
+Middle Class Income,24-07-2020,5684101
+Lower middle income,24-07-2020,2862989
+Low income,24-07-2020,120572
+High income,23-07-2020,7029018
+Middle Class Income,23-07-2020,5568647
+Lower middle income,23-07-2020,2793568
+Low income,23-07-2020,118805
+High income,22-07-2020,6939584
+Middle Class Income,22-07-2020,5450546
+Lower middle income,22-07-2020,2723020
+Low income,22-07-2020,117247
+High income,21-07-2020,6852768
+Middle Class Income,21-07-2020,5330333
+Lower middle income,21-07-2020,2656861
+Low income,21-07-2020,115082
+High income,20-07-2020,6766338
+Middle Class Income,20-07-2020,5233385
+Lower middle income,20-07-2020,2599024
+Low income,20-07-2020,113286
+High income,19-07-2020,6682993
+Middle Class Income,19-07-2020,5165500
+Lower middle income,19-07-2020,2543914
+Low income,19-07-2020,111453
+High income,18-07-2020,6609874
+Middle Class Income,18-07-2020,5089744
+Lower middle income,18-07-2020,2482292
+Low income,18-07-2020,110063
+High income,17-07-2020,6528798
+Middle Class Income,17-07-2020,5007317
+Lower middle income,17-07-2020,2411839
+Low income,17-07-2020,108698
+High income,16-07-2020,6442652
+Middle Class Income,16-07-2020,4915701
+Lower middle income,16-07-2020,2354383
+Low income,16-07-2020,106481
+High income,15-07-2020,6351866
+Middle Class Income,15-07-2020,4818366
+Lower middle income,15-07-2020,2299212
+Low income,15-07-2020,104876
+High income,14-07-2020,6267921
+Middle Class Income,14-07-2020,4727100
+Lower middle income,14-07-2020,2245829
+Low income,14-07-2020,103696
+High income,13-07-2020,6185460
+Middle Class Income,13-07-2020,4636247
+Lower middle income,13-07-2020,2199370
+Low income,13-07-2020,102467
+High income,12-07-2020,6105510
+Middle Class Income,12-07-2020,4568152
+Lower middle income,12-07-2020,2153903
+Low income,12-07-2020,101501
+High income,11-07-2020,6029260
+Middle Class Income,11-07-2020,4500537
+Lower middle income,11-07-2020,2105927
+Low income,11-07-2020,100414
+High income,10-07-2020,5952449
+Middle Class Income,10-07-2020,4414129
+Lower middle income,10-07-2020,2057710
+Low income,10-07-2020,99052
+High income,09-07-2020,5864370
+Middle Class Income,09-07-2020,4317961
+Lower middle income,09-07-2020,2010629
+Low income,09-07-2020,97280
+High income,08-07-2020,5785782
+Middle Class Income,08-07-2020,4220630
+Lower middle income,08-07-2020,1963471
+Low income,08-07-2020,95786
+High income,07-07-2020,5708396
+Middle Class Income,07-07-2020,4132090
+Lower middle income,07-07-2020,1915772
+Low income,07-07-2020,94149
+High income,06-07-2020,5634725
+Middle Class Income,06-07-2020,4041810
+Lower middle income,06-07-2020,1871408
+Low income,06-07-2020,92883
+High income,05-07-2020,5572307
+Middle Class Income,05-07-2020,3978876
+Lower middle income,05-07-2020,1829305
+Low income,05-07-2020,92058
+High income,04-07-2020,5501966
+Middle Class Income,04-07-2020,3913138
+Lower middle income,04-07-2020,1779974
+Low income,04-07-2020,91253
+High income,03-07-2020,5437938
+Middle Class Income,03-07-2020,3833912
+Lower middle income,03-07-2020,1734517
+Low income,03-07-2020,90259
+High income,02-07-2020,5366923
+Middle Class Income,02-07-2020,3744742
+Lower middle income,02-07-2020,1693365
+Low income,02-07-2020,88971
+High income,01-07-2020,5294875
+Middle Class Income,01-07-2020,3655297
+Lower middle income,01-07-2020,1650817
+Low income,01-07-2020,88051
+High income,30-06-2020,5228569
+Middle Class Income,30-06-2020,3548652
+Lower middle income,30-06-2020,1609605
+Low income,30-06-2020,87083
+High income,29-06-2020,5160667
+Middle Class Income,29-06-2020,3472901
+Lower middle income,29-06-2020,1570296
+Low income,29-06-2020,86291
+High income,28-06-2020,5101451
+Middle Class Income,28-06-2020,3417872
+Lower middle income,28-06-2020,1532989
+Low income,28-06-2020,85129
+High income,27-06-2020,5041889
+Middle Class Income,27-06-2020,3349375
+Lower middle income,27-06-2020,1493753
+Low income,27-06-2020,83971
+High income,26-06-2020,4982278
+Middle Class Income,26-06-2020,3274800
+Lower middle income,26-06-2020,1452920
+Low income,26-06-2020,82593
+High income,25-06-2020,4912715
+Middle Class Income,25-06-2020,3191979
+Lower middle income,25-06-2020,1414006
+Low income,25-06-2020,81418
+High income,24-06-2020,4853693
+Middle Class Income,24-06-2020,3109625
+Lower middle income,24-06-2020,1377210
+Low income,24-06-2020,80080
+High income,23-06-2020,4798788
+Middle Class Income,23-06-2020,3031598
+Lower middle income,23-06-2020,1339852
+Low income,23-06-2020,78904
+High income,22-06-2020,4741799
+Middle Class Income,22-06-2020,2957108
+Lower middle income,22-06-2020,1304371
+Low income,22-06-2020,77683
+High income,21-06-2020,4693744
+Middle Class Income,21-06-2020,2897653
+Lower middle income,21-06-2020,1270681
+Low income,21-06-2020,76548
+High income,20-06-2020,4650391
+Middle Class Income,20-06-2020,2883423
+Lower middle income,20-06-2020,1236699
+Low income,20-06-2020,75052
+High income,19-06-2020,4599656
+Middle Class Income,19-06-2020,2787399
+Lower middle income,19-06-2020,1199406
+Low income,19-06-2020,73225
+High income,18-06-2020,4547377
+Middle Class Income,18-06-2020,2697382
+Lower middle income,18-06-2020,1161924
+Low income,18-06-2020,72019
+High income,17-06-2020,4498465
+Middle Class Income,17-06-2020,2638758
+Lower middle income,17-06-2020,1127893
+Low income,17-06-2020,70490
+High income,16-06-2020,4453925
+Middle Class Income,16-06-2020,2575687
+Lower middle income,16-06-2020,1094545
+Low income,16-06-2020,68247
+High income,15-06-2020,4410088
+Middle Class Income,15-06-2020,2507859
+Lower middle income,15-06-2020,1063588
+Low income,15-06-2020,66959
+High income,14-06-2020,4370640
+Middle Class Income,14-06-2020,2453825
+Lower middle income,14-06-2020,1033935
+Low income,14-06-2020,65172
+High income,13-06-2020,4330397
+Middle Class Income,13-06-2020,2400351
+Lower middle income,13-06-2020,997091
+Low income,13-06-2020,63788
+High income,12-06-2020,4283634
+Middle Class Income,12-06-2020,2346185
+Lower middle income,12-06-2020,965675
+Low income,12-06-2020,62232
+High income,11-06-2020,4235726
+Middle Class Income,11-06-2020,2293897
+Lower middle income,11-06-2020,940094
+Low income,11-06-2020,60536
+High income,10-06-2020,4192647
+Middle Class Income,10-06-2020,2232888
+Lower middle income,10-06-2020,909745
+Low income,10-06-2020,58781
+High income,09-06-2020,4149969
+Middle Class Income,09-06-2020,2169195
+Lower middle income,09-06-2020,880668
+Low income,09-06-2020,57039
+High income,08-06-2020,4112242
+Middle Class Income,08-06-2020,2110345
+Lower middle income,08-06-2020,852352
+Low income,08-06-2020,55936
+High income,07-06-2020,4077824
+Middle Class Income,07-06-2020,2067284
+Lower middle income,07-06-2020,828529
+Low income,07-06-2020,54187
+High income,06-06-2020,4041095
+Middle Class Income,06-06-2020,2021703
+Lower middle income,06-06-2020,801666
+Low income,06-06-2020,52349
+High income,05-06-2020,3992987
+Middle Class Income,05-06-2020,1969176
+Lower middle income,05-06-2020,774469
+Low income,05-06-2020,50850
+High income,04-06-2020,3948173
+Middle Class Income,04-06-2020,1908548
+Lower middle income,04-06-2020,748367
+Low income,04-06-2020,48832
+High income,03-06-2020,3898857
+Middle Class Income,03-06-2020,1847827
+Lower middle income,03-06-2020,721702
+Low income,03-06-2020,47208
+High income,02-06-2020,3864679
+Middle Class Income,02-06-2020,1798519
+Lower middle income,02-06-2020,695592
+Low income,02-06-2020,45551
+High income,01-06-2020,3829675
+Middle Class Income,01-06-2020,1736510
+Lower middle income,01-06-2020,671379
+Low income,01-06-2020,44032
+High income,31-05-2020,3794184
+Middle Class Income,31-05-2020,1697072
+Lower middle income,31-05-2020,647740
+Low income,31-05-2020,42321
+High income,30-05-2020,3758468
+Middle Class Income,30-05-2020,1654143
+Lower middle income,30-05-2020,624895
+Low income,30-05-2020,40952
+High income,29-05-2020,3707496
+Middle Class Income,29-05-2020,1594178
+Lower middle income,29-05-2020,602474
+Low income,29-05-2020,39270
+High income,28-05-2020,3663821
+Middle Class Income,28-05-2020,1539658
+Lower middle income,28-05-2020,580657
+Low income,28-05-2020,37807
+High income,27-05-2020,3620251
+Middle Class Income,27-05-2020,1485285
+Lower middle income,27-05-2020,560452
+Low income,27-05-2020,35962
+High income,26-05-2020,3584333
+Middle Class Income,26-05-2020,1438524
+Lower middle income,26-05-2020,542045
+Low income,26-05-2020,34497
+High income,25-05-2020,3548781
+Middle Class Income,25-05-2020,1398194
+Lower middle income,25-05-2020,526818
+Low income,25-05-2020,33248
+High income,24-05-2020,3513597
+Middle Class Income,24-05-2020,1362444
+Lower middle income,24-05-2020,511052
+Low income,24-05-2020,31737
+High income,23-05-2020,3477353
+Middle Class Income,23-05-2020,1324217
+Lower middle income,23-05-2020,493881
+Low income,23-05-2020,30172
+High income,22-05-2020,3433103
+Middle Class Income,22-05-2020,1282558
+Lower middle income,22-05-2020,477286
+Low income,22-05-2020,28569
+High income,21-05-2020,3388006
+Middle Class Income,21-05-2020,1238437
+Lower middle income,21-05-2020,460301
+Low income,21-05-2020,27524
+High income,20-05-2020,3343458
+Middle Class Income,20-05-2020,1197064
+Lower middle income,20-05-2020,441847
+Low income,20-05-2020,25945
+High income,19-05-2020,3300120
+Middle Class Income,19-05-2020,1152328
+Lower middle income,19-05-2020,425677
+Low income,19-05-2020,24768
+High income,18-05-2020,3260093
+Middle Class Income,18-05-2020,1112993
+Lower middle income,18-05-2020,410441
+Low income,18-05-2020,23762
+High income,17-05-2020,3221162
+Middle Class Income,17-05-2020,1077829
+Lower middle income,17-05-2020,396631
+Low income,17-05-2020,22528
+High income,16-05-2020,3186575
+Middle Class Income,16-05-2020,1048438
+Lower middle income,16-05-2020,383235
+Low income,16-05-2020,21555
+High income,15-05-2020,3142024
+Middle Class Income,15-05-2020,1012323
+Lower middle income,15-05-2020,371119
+Low income,15-05-2020,20430
+High income,14-05-2020,3098577
+Middle Class Income,14-05-2020,971263
+Lower middle income,14-05-2020,360634
+Low income,14-05-2020,19092
+High income,13-05-2020,3052792
+Middle Class Income,13-05-2020,935830
+Lower middle income,13-05-2020,347441
+Low income,13-05-2020,17861
+High income,12-05-2020,3013890
+Middle Class Income,12-05-2020,901696
+Lower middle income,12-05-2020,336596
+Low income,12-05-2020,17327
+High income,11-05-2020,2970894
+Middle Class Income,11-05-2020,870481
+Lower middle income,11-05-2020,326606
+Low income,11-05-2020,16145
+High income,10-05-2020,2933571
+Middle Class Income,10-05-2020,844350
+Lower middle income,10-05-2020,314581
+Low income,10-05-2020,15447
+High income,09-05-2020,2898574
+Middle Class Income,09-05-2020,817053
+Lower middle income,09-05-2020,302986
+Low income,09-05-2020,14123
+High income,08-05-2020,2855879
+Middle Class Income,08-05-2020,786309
+Lower middle income,08-05-2020,292817
+Low income,08-05-2020,13490
+High income,07-05-2020,2809351
+Middle Class Income,07-05-2020,754793
+Lower middle income,07-05-2020,281027
+Low income,07-05-2020,12911
+High income,06-05-2020,2762002
+Middle Class Income,06-05-2020,724997
+Lower middle income,06-05-2020,270379
+Low income,06-05-2020,12151
+High income,05-05-2020,2715220
+Middle Class Income,05-05-2020,692590
+Lower middle income,05-05-2020,260357
+Low income,05-05-2020,10925
+High income,04-05-2020,2672715
+Middle Class Income,04-05-2020,665674
+Lower middle income,04-05-2020,250591
+Low income,04-05-2020,10457
+High income,03-05-2020,2632820
+Middle Class Income,03-05-2020,638631
+Lower middle income,03-05-2020,240427
+Low income,03-05-2020,9954
+High income,02-05-2020,2593585
+Middle Class Income,02-05-2020,611812
+Lower middle income,02-05-2020,232671
+Low income,02-05-2020,9758
+High income,01-05-2020,2548323
+Middle Class Income,01-05-2020,587275
+Lower middle income,01-05-2020,224981
+Low income,01-05-2020,9024
+High income,30-04-2020,2492050
+Middle Class Income,30-04-2020,562711
+Lower middle income,30-04-2020,217497
+Low income,30-04-2020,8382
+High income,29-04-2020,2441402
+Middle Class Income,29-04-2020,537299
+Lower middle income,29-04-2020,210202
+Low income,29-04-2020,8039
+High income,28-04-2020,2394391
+Middle Class Income,28-04-2020,514717
+Lower middle income,28-04-2020,203086
+Low income,28-04-2020,7432
+High income,27-04-2020,2347976
+Middle Class Income,27-04-2020,492524
+Lower middle income,27-04-2020,196421
+Low income,27-04-2020,6953
+High income,26-04-2020,2300580
+Middle Class Income,26-04-2020,474807
+Lower middle income,26-04-2020,190916
+Low income,26-04-2020,6545
+High income,25-04-2020,2254494
+Middle Class Income,25-04-2020,456633
+Lower middle income,25-04-2020,184725
+Low income,25-04-2020,6235
+High income,24-04-2020,2199168
+Middle Class Income,24-04-2020,434963
+Lower middle income,24-04-2020,178935
+Low income,24-04-2020,5872
+High income,23-04-2020,2151975
+Middle Class Income,23-04-2020,405327
+Lower middle income,23-04-2020,172488
+Low income,23-04-2020,5581
+High income,22-04-2020,2094042
+Middle Class Income,22-04-2020,387165
+Lower middle income,22-04-2020,166237
+Low income,22-04-2020,5247
+High income,21-04-2020,2034567
+Middle Class Income,21-04-2020,370865
+Lower middle income,21-04-2020,160267
+Low income,21-04-2020,4978
+High income,20-04-2020,1981383
+Middle Class Income,20-04-2020,353746
+Lower middle income,20-04-2020,154750
+Low income,20-04-2020,4721
+High income,19-04-2020,1925893
+Middle Class Income,19-04-2020,338530
+Lower middle income,19-04-2020,149239
+Low income,19-04-2020,4458
+High income,18-04-2020,1872048
+Middle Class Income,18-04-2020,321828
+Lower middle income,18-04-2020,143667
+Low income,18-04-2020,4264
+High income,17-04-2020,1815901
+Middle Class Income,17-04-2020,305805
+Lower middle income,17-04-2020,137899
+Low income,17-04-2020,3983
+High income,16-04-2020,1750409
+Middle Class Income,16-04-2020,289258
+Lower middle income,16-04-2020,132331
+Low income,16-04-2020,3727
+High income,15-04-2020,1675976
+Middle Class Income,15-04-2020,274629
+Lower middle income,15-04-2020,127055
+Low income,15-04-2020,3611
+High income,14-04-2020,1617979
+Middle Class Income,14-04-2020,259589
+Lower middle income,14-04-2020,122083
+Low income,14-04-2020,3361
+High income,13-04-2020,1550642
+Middle Class Income,13-04-2020,247685
+Lower middle income,13-04-2020,116969
+Low income,13-04-2020,3119
+High income,12-04-2020,1496743
+Middle Class Income,12-04-2020,235048
+Lower middle income,12-04-2020,111878
+Low income,12-04-2020,2924
+High income,11-04-2020,1394800
+Middle Class Income,11-04-2020,223097
+Lower middle income,11-04-2020,107369
+Low income,11-04-2020,2768
+High income,10-04-2020,1335228
+Middle Class Income,10-04-2020,211944
+Lower middle income,10-04-2020,102793
+Low income,10-04-2020,2585
+High income,09-04-2020,1267191
+Middle Class Income,09-04-2020,198284
+Lower middle income,09-04-2020,98279
+Low income,09-04-2020,2375
+High income,08-04-2020,1195690
+Middle Class Income,08-04-2020,187012
+Lower middle income,08-04-2020,94080
+Low income,08-04-2020,2186
+High income,07-04-2020,1129873
+Middle Class Income,07-04-2020,174972
+Lower middle income,07-04-2020,89994
+Low income,07-04-2020,1980
+High income,06-04-2020,1074446
+Middle Class Income,06-04-2020,165560
+Lower middle income,06-04-2020,86068
+Low income,06-04-2020,1816
+High income,05-04-2020,1012545
+Middle Class Income,05-04-2020,158180
+Lower middle income,05-04-2020,80853
+Low income,05-04-2020,1642
+High income,04-04-2020,953019
+Middle Class Income,04-04-2020,150823
+Lower middle income,04-04-2020,76179
+Low income,04-04-2020,1505
+High income,03-04-2020,904447
+Middle Class Income,03-04-2020,143819
+Lower middle income,03-04-2020,71810
+Low income,03-04-2020,1372
+High income,02-04-2020,831552
+Middle Class Income,02-04-2020,137123
+Lower middle income,02-04-2020,67344
+Low income,02-04-2020,1236
+High income,01-04-2020,760841
+Middle Class Income,01-04-2020,130420
+Lower middle income,01-04-2020,62503
+Low income,01-04-2020,1082
+High income,31-03-2020,685684
+Middle Class Income,31-03-2020,124342
+Lower middle income,31-03-2020,57558
+Low income,31-03-2020,946
+High income,30-03-2020,620042
+Middle Class Income,30-03-2020,116424
+Lower middle income,30-03-2020,52814
+Low income,30-03-2020,811
+High income,29-03-2020,563087
+Middle Class Income,29-03-2020,112801
+Lower middle income,29-03-2020,48478
+Low income,29-03-2020,722
+High income,28-03-2020,514892
+Middle Class Income,28-03-2020,108764
+Lower middle income,28-03-2020,44289
+Low income,28-03-2020,640
+High income,27-03-2020,453622
+Middle Class Income,27-03-2020,104620
+Lower middle income,27-03-2020,40230
+Low income,27-03-2020,555
+High income,26-03-2020,398077
+Middle Class Income,26-03-2020,100256
+Lower middle income,26-03-2020,36305
+Low income,26-03-2020,476
+High income,25-03-2020,344078
+Middle Class Income,25-03-2020,96739
+Lower middle income,25-03-2020,33057
+Low income,25-03-2020,434
+High income,24-03-2020,298009
+Middle Class Income,24-03-2020,94483
+Lower middle income,24-03-2020,30006
+Low income,24-03-2020,330
+High income,23-03-2020,260573
+Middle Class Income,23-03-2020,92547
+Lower middle income,23-03-2020,27552
+Low income,23-03-2020,286
+High income,22-03-2020,222007
+Middle Class Income,22-03-2020,90640
+Lower middle income,22-03-2020,25550
+Low income,22-03-2020,210
+High income,21-03-2020,192085
+Middle Class Income,21-03-2020,88098
+Lower middle income,21-03-2020,23872
+Low income,21-03-2020,174
+High income,20-03-2020,162695
+Middle Class Income,20-03-2020,86561
+Lower middle income,20-03-2020,22409
+Low income,20-03-2020,137
+High income,19-03-2020,136228
+Middle Class Income,19-03-2020,85297
+Lower middle income,19-03-2020,20645
+Low income,19-03-2020,102
+High income,18-03-2020,111692
+Middle Class Income,18-03-2020,84184
+Lower middle income,18-03-2020,19231
+Low income,18-03-2020,78
+High income,17-03-2020,96328
+Middle Class Income,17-03-2020,83530
+Lower middle income,17-03-2020,17707
+Low income,17-03-2020,67
+High income,16-03-2020,83291
+Middle Class Income,16-03-2020,82905
+Lower middle income,16-03-2020,16205
+Low income,16-03-2020,57
+High income,15-03-2020,70497
+Middle Class Income,15-03-2020,82420
+Lower middle income,15-03-2020,14943
+Low income,15-03-2020,31
+High income,14-03-2020,61106
+Middle Class Income,14-03-2020,82017
+Lower middle income,14-03-2020,13512
+Low income,14-03-2020,23
+High income,13-03-2020,52042
+Middle Class Income,13-03-2020,81775
+Lower middle income,13-03-2020,11935
+Low income,13-03-2020,18
+High income,12-03-2020,40607
+Middle Class Income,12-03-2020,81433
+Lower middle income,12-03-2020,10521
+Low income,12-03-2020,15
+Middle Class Income,11-03-2020,81326
+High income,11-03-2020,35068
+Lower middle income,11-03-2020,9411
+Low income,11-03-2020,15
+Middle Class Income,10-03-2020,81217
+High income,10-03-2020,28737
+Lower middle income,10-03-2020,8380
+Low income,10-03-2020,10
+Middle Class Income,09-03-2020,81114
+High income,09-03-2020,25026
+Lower middle income,09-03-2020,7436
+Low income,09-03-2020,9
+Middle Class Income,08-03-2020,81045
+High income,08-03-2020,21443
+Lower middle income,08-03-2020,6793
+Low income,08-03-2020,9
+Middle Class Income,07-03-2020,80936
+High income,07-03-2020,18572
+Lower middle income,07-03-2020,5975
+Low income,07-03-2020,9
+Middle Class Income,06-03-2020,80821
+High income,06-03-2020,15644
+Lower middle income,06-03-2020,4884
+Low income,06-03-2020,6
+Middle Class Income,05-03-2020,80609
+High income,05-03-2020,13141
+Lower middle income,05-03-2020,3617
+Low income,05-03-2020,5
+Middle Class Income,04-03-2020,80438
+High income,04-03-2020,11175
+Lower middle income,04-03-2020,3014
+Low income,04-03-2020,5
+Middle Class Income,03-03-2020,80291
+High income,03-03-2020,9597
+Lower middle income,03-03-2020,2395
+Low income,03-03-2020,5
+Middle Class Income,02-03-2020,80150
+High income,02-03-2020,7966
+Lower middle income,02-03-2020,1556
+Low income,02-03-2020,5
+Middle Class Income,01-03-2020,79941
+High income,01-03-2020,6730
+Lower middle income,01-03-2020,1021
+Low income,01-03-2020,5
+Middle Class Income,29-02-2020,79346
+High income,29-02-2020,5338
+Lower middle income,29-02-2020,629
+Low income,29-02-2020,5
+Middle Class Income,28-02-2020,78904
+High income,28-02-2020,4116
+Lower middle income,28-02-2020,422
+Low income,28-02-2020,5
+Middle Class Income,27-02-2020,78573
+High income,27-02-2020,3169
+Lower middle income,27-02-2020,276
+Low income,27-02-2020,5
+Middle Class Income,26-02-2020,78137
+High income,26-02-2020,2367
+Lower middle income,26-02-2020,170
+Low income,26-02-2020,5
+Middle Class Income,25-02-2020,77722
+High income,25-02-2020,1869
+Lower middle income,25-02-2020,125
+Low income,25-02-2020,5
+Middle Class Income,24-02-2020,77212
+High income,24-02-2020,1562
+Lower middle income,24-02-2020,88
+Low income,24-02-2020,5
+Middle Class Income,23-02-2020,76997
+High income,23-02-2020,1232
+Lower middle income,23-02-2020,70
+Low income,23-02-2020,0
+Middle Class Income,22-02-2020,76981
+High income,22-02-2020,938
+Lower middle income,22-02-2020,55
+Middle Class Income,21-02-2020,75531
+High income,21-02-2020,636
+Lower middle income,21-02-2020,45
+Middle Class Income,20-02-2020,75058
+High income,20-02-2020,493
+Lower middle income,20-02-2020,31
+Middle Class Income,19-02-2020,74605
+High income,19-02-2020,401
+Lower middle income,19-02-2020,28
+Middle Class Income,18-02-2020,74198
+High income,18-02-2020,389
+Lower middle income,18-02-2020,26
+Middle Class Income,17-02-2020,72423
+High income,17-02-2020,370
+Lower middle income,17-02-2020,26
+Middle Class Income,16-02-2020,70504
+High income,16-02-2020,353
+Lower middle income,16-02-2020,26
+Middle Class Income,15-02-2020,68405
+High income,15-02-2020,339
+Lower middle income,15-02-2020,26
+Middle Class Income,14-02-2020,66346
+High income,14-02-2020,322
+Lower middle income,14-02-2020,26
+Middle Class Income,13-02-2020,59885
+High income,13-02-2020,299
+Lower middle income,13-02-2020,25
+Middle Class Income,12-02-2020,44752
+High income,12-02-2020,281
+Lower middle income,12-02-2020,24
+Middle Class Income,11-02-2020,44380
+High income,11-02-2020,275
+Lower middle income,11-02-2020,24
+Middle Class Income,10-02-2020,42358
+High income,10-02-2020,255
+Lower middle income,10-02-2020,23
+Middle Class Income,09-02-2020,39841
+High income,09-02-2020,235
+Lower middle income,09-02-2020,22
+Middle Class Income,08-02-2020,36828
+High income,08-02-2020,220
+Lower middle income,08-02-2020,22
+Middle Class Income,07-02-2020,34117
+High income,07-02-2020,203
+Lower middle income,07-02-2020,19
+Middle Class Income,06-02-2020,30594
+High income,06-02-2020,194
+Lower middle income,06-02-2020,18
+Middle Class Income,05-02-2020,27448
+High income,05-02-2020,180
+Lower middle income,05-02-2020,16
+Middle Class Income,04-02-2020,23717
+High income,04-02-2020,166
+Lower middle income,04-02-2020,16
+Middle Class Income,03-02-2020,19722
+High income,03-02-2020,149
+Lower middle income,03-02-2020,16
+Middle Class Income,02-02-2020,16636
+High income,02-02-2020,138
+Lower middle income,02-02-2020,13
+Middle Class Income,01-02-2020,11900
+High income,01-02-2020,127
+Lower middle income,01-02-2020,11
+Middle Class Income,31-01-2020,9812
+High income,31-01-2020,108
+Lower middle income,31-01-2020,7
+Middle Class Income,30-01-2020,8146
+High income,30-01-2020,84
+Lower middle income,30-01-2020,7
+Middle Class Income,29-01-2020,6091
+High income,29-01-2020,73
+Lower middle income,29-01-2020,5
+Middle Class Income,28-01-2020,5512
+High income,28-01-2020,63
+Lower middle income,28-01-2020,5
+Middle Class Income,27-01-2020,2875
+High income,27-01-2020,49
+Lower middle income,27-01-2020,5
+Middle Class Income,26-01-2020,2074
+High income,26-01-2020,43
+Lower middle income,26-01-2020,3
+Middle Class Income,25-01-2020,1409
+High income,25-01-2020,25
+Lower middle income,25-01-2020,3
+Middle Class Income,24-01-2020,921
+High income,24-01-2020,21
+Lower middle income,24-01-2020,2
+Middle Class Income,23-01-2020,643
+High income,23-01-2020,12
+Lower middle income,23-01-2020,2
+Middle Class Income,22-01-2020,551
+High income,22-01-2020,6
+Lower middle income,22-01-2020,0
