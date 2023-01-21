@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 from millify import millify
-import json
 
 st. set_page_config(layout="wide")      #set to wide mode
 
